@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 24-year-old woman from the highlands of Peru. She is single and has no children. Prior to her current illness, she was healthy.",
+  "chief_complaint": "2-month history of upper abdominal pain, weight loss (5kg), nausea and vomiting, and intermittent fevers for the past 2 weeks.",
+  "history_of_present_illness": "A 24-year-old woman from the highlands of Peru presented with a 2-month history of upper abdominal pain, weight loss (5kg), nausea, and vomiting. She had tried analgesics without pain control and reported intermittent fevers for the past 2 weeks. Three days prior, she was seen at the emergency room for the same complaints where an abdominal ultrasound revealed multiple hypoechoic lesions in her liver. She was treated with ceftriaxone and metronidazole for suspected pyogenic liver abscesses but showed no clinical improvement. About 2 to 3 months prior, she started taking over-the-counter medicines to lose weight, changed her diet to vegetarian food, and consumed energetic hot drinks made from alfalfa and watercress.",
+  "exposure_and_epidemiology": "From the highlands of Peru. Reported consumption of energetic hot drinks made from alfalfa and watercress about 2 to 3 months ago.",
+  "vitals": "Blood pressure: 95/60mmHg, pulse: 105bpm, temperature: 38.5°C (101.3°F).",
+  "physical_exam": "Looks ill, with pale mucous membranes but no jaundice. Abdominal palpation revealed right upper quadrant tenderness, and the liver was slightly enlarged with a liver span of 15cm. The rest of the physical examination was normal.",
+  "labs_and_diagnostics": "Laboratory Results (Emergency Room): WBC 13.94 (Reference: 4–10 x 10^9/L), Eosinophils 43% (Reference: <5%), Total eosinophil count 5.97 (Reference: <0.5), Haemoglobin 12.3 g/dL (Reference: 12–16 g/dL), AST 34 U/L (Reference: 10–40 U/L), ALT 55 U/L (Reference: 7–40 U/L), AP 170 U/L (Reference: 20–126 U/L), Amylase 75 U/L (Reference: 3–100 U/L), Lipase 100 U/L (Reference: 10–140 U/L).\nImaging: Abdominal ultrasound revealed multiple hypoechoic lesions in her liver. A contrast-enhanced CT scan of her abdomen showed multiple hypodense, non-enhancing lesions in the liver (Fig. 67.1 showed multiple, round, clustered, hypodense lesions in the left median section of the liver).\nDiagnostic Test: The Fas2 ELISA titre was 0.56 (normal <0.2).",
+  "differential_diagnosis": "Suspected pyogenic liver abscesses (initially), fascioliasis (most important consideration), amoebic liver abscess, brucellosis, visceral toxocariasis, secondary infections (e.g., ascariasis and hydatid disease), opisthorchis (if travel history to South-east Asia).",
+  "management_and_clinical_course": "Initially treated with ceftriaxone and metronidazole for suspected pyogenic liver abscesses, without clinical improvement. After diagnosis, she received one single dose of triclabendazole 10mg/kg. Her clinical symptoms rapidly improved, laboratory parameters returned to normal, and control tomography showed disappearing liver lesions.",
+  "final_diagnosis": "Fascioliasis.",
+  "disease_name_short": "Fascioliasis",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

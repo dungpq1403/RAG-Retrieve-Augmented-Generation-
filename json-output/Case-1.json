@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 20-year-old housewife, Sudanese refugee, living in a camp in northern Uganda.",
+  "chief_complaint": "2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea, and slight non-productive cough.",
+  "history_of_present_illness": "A 20-year-old Sudanese refugee housewife presented to a hospital in northern Uganda with a 2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea and slight non-productive cough. She denied any contact with sick people.",
+  "exposure_and_epidemiology": "Sudanese refugee living in a camp in northern Uganda, during an outbreak of Ebola virus disease. Denied contact with sick people initially.",
+  "vitals": "On admission: temperature 39.6°C (103.3°F), blood pressure 90/60mmHg, pulse 90bpm, respiratory rate 24 cycles per minute. Worsened: temperature 36.0°C, blood pressure unreadable, pulse 150bpm, respiratory rate 36 cycles per minute.",
+  "physical_exam": "On admission: prostrate, semiconscious, abdominal tenderness (especially right upper quadrant), hepatosplenomegaly, bleeding from gums. Lungs clear, no rash or lymphadenopathy. Later: subconjunctival haemorrhage, copious bleeding from the mouth, nose and rectum, dyspnoea. Became comatose.",
+  "labs_and_diagnostics": "Initially, no clinical laboratory data available. Later: positive ELISA antigen and PCR tests for Ebola virus, negative ELISA IgG antibody.",
+  "differential_diagnosis": "Complicated malaria, typhoid fever, bacterial gastroenteritis, leptospirosis.",
+  "management_and_clinical_course": "Admitted to an isolation ward. Intravenous fluids, broad-spectrum antibiotics, and analgesics were initiated. Patient's condition rapidly worsened, developing subconjunctival haemorrhage, copious bleeding from mouth, nose, and rectum, dyspnoea, and hypothermic shock. Became comatose and died approximately 24 hours after admission.",
+  "final_diagnosis": "Ebola virus disease, confirmed by positive ELISA antigen and PCR tests.",
+  "disease_name_short": "Ebola virus disease",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

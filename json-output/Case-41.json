@@ -1,0 +1,17 @@
+{
+  "patient_information": "7-year-old girl from West Africa.",
+  "chief_complaint": "Two skin ulcers and a contracture of her right wrist.",
+  "history_of_present_illness": "After an insect bite, she developed an itchy papule on the back of her right hand, which enlarged over 3 months. It ulcerated a few weeks later. Herbal remedies, diclofenac, dexamethasone, and oxacillin were administered with no effect. A second lesion appeared, and she became increasingly unable to use her right hand. No history of relevant trauma or systemic symptoms was reported initially.",
+  "exposure_and_epidemiology": "From West Africa, a tropical region. History of an insect bite, although the mode of transmission for Mycobacterium ulcerans is noted as unknown and the insect bite an incidental finding.",
+  "vitals": "Pulse 108bpm, blood pressure 100/70mmHg, temperature 37.9°C (100.2°F).",
+  "physical_exam": "Anxious girl in good general condition. Holding her right wrist in a 45° flexion and 20° abduction position. Two skin ulcers: one on the back of her right hand (3x3cm) and one on the medial side of her right wrist (0.5x1cm). The larger ulcer is filled with necrotic tissue, surrounded by hypo- and hyperpigmentation, lichenification, and desquamation. An ill-defined induration (12x8cm) surrounds the ulcers with oedema extending from the lower arm to the fingers. A 0.5x0.5cm nodule is noticed above the medial right elbow. Movement in the associated joint is restricted.",
+  "labs_and_diagnostics": "PCR from a wound swab confirmed the presence of M. ulcerans.",
+  "differential_diagnosis": "Numerous other infectious (bacterial, viral, fungal, parasitic) and non-infectious (trauma, envenoming, autoimmune, haematological, neoplastic) causes of ulcers in tropical countries. Bacterial superinfection for pain and low-grade fever.",
+  "management_and_clinical_course": "Initial treatments with herbal remedies, diclofenac, dexamethasone, and oxacillin had no effect. Management included adequate wound care (saline-soaked gauze, povidone-iodine), antitetanus coverage. BU-specific antimycobacterial therapy was commenced. During 8 weeks of specific treatment and wound care, the ulcer on the back of the hand healed almost completely, but the second smaller ulcer increased to 8x10cm. Debridement and skin grafting were performed, followed by physiotherapy to correct restricted movement. The patient made an uneventful recovery.",
+  "final_diagnosis": "Buruli ulcer (Mycobacterium ulcerans disease).",
+  "disease_name_short": "Buruli Ulcer",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

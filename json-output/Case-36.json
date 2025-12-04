@@ -1,0 +1,16 @@
+{
+  "patient_information": "23-year-old male farmer from Myanmar.",
+  "chief_complaint": "Left-sided scrotal swelling.",
+  "history_of_present_illness": "3-year history of gradually increasing, non-tender, left-sided scrotal swelling, unresponsive to traditional herbal medicine. No history of fever.",
+  "exposure_and_epidemiology": "Patient is from the central part of Myanmar, a region where scrotal swelling is reported to be common.",
+  "vitals": "Normal vital signs, afebrile.",
+  "physical_exam": "Fair general condition. Unilateral, non-tender, non-reducible scrotal swelling. No palpable inguinal lymph nodes.",
+  "labs_and_diagnostics": "Suggested investigations: Ultrasound (to distinguish tumor, hydrocoele, hernia, and for 'filarial dance sign'), blood smear for microfilariae (nocturnal collection), microfilarial PCR assays, Circulating Filarial Antigen (CFA) tests (immunochromatographic card test). Actual finding: Hydrocoele confirmed on ultrasound.",
+  "differential_diagnosis": "Inguinal hernia, hydrocoele, testicular tumour, lymphatic filariasis (Wuchereria bancrofti), urogenital schistosomiasis (Schistosoma haematobium - less likely due to non-endemicity), testicular tuberculosis (less likely due to long duration and absence of other symptoms).",
+  "management_and_clinical_course": "Hydrocoelectomy performed, 3 litres of clear fluid drained. Received antifilarial treatment. Lost to follow-up.",
+  "final_diagnosis": "Lymphatic Filariasis, presenting as hydrocoele.",
+  "disease_name_short": "Lymphatic Filariasis",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

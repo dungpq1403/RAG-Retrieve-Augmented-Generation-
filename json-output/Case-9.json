@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 52-year-old man from Vietnam. History of type 2 diabetes mellitus and poorly controlled hypertension.",
+  "chief_complaint": "Abdominal pain and vomiting.",
+  "history_of_present_illness": "4 days of retro-orbital headache, lethargy, myalgia, and fevers that had begun to improve over the last 24 hours.",
+  "exposure_and_epidemiology": "Presented to an urban hospital in Ho Chi Minh City, Vietnam, a high-endemicity area for dengue. Last travel outside the city was several years ago.",
+  "vitals": "GCS: 14/15, Temperature: 36.5°C, Blood Pressure: 105/90 mmHg, Heart Rate: 120 bpm, Respiratory Rate: 28 breaths per minute, Peripheral Oxygen Saturation: 93% on air.",
+  "physical_exam": "Drowsy, but rousable. Weak radial pulse, normal heart sounds. Respiratory examination revealed a dull percussion note and reduced breath sounds at both lung bases. Mild abdominal distension, with shifting dullness and a tender 3cm liver edge. Skin examination unremarkable.",
+  "labs_and_diagnostics": "Haemoglobin: 14.6 g/dL (Reference 12.5–17.2), Haematocrit: 53.9% (Reference 40–52), Platelets: 58 x 10^9/L (Reference 160–370), WCC: 2.1 x 10^9/L (Reference 3.6–10.5), Neutrophils: 0.9 x 10^9/L (Reference 1.5–7.7), Lymphocytes: 0.8 x 10^9/L (Reference 1.1–4.0), C-reactive protein: 20 mg/L (Reference <4), Urea: 7.8 mmol/L (Reference 2.5–7.8), Creatinine: 114 μmol/L (Reference 62–115), Alanine aminotransferase: 812 U/L (Reference 7–40), Alkaline phosphatase: 260 U/L (Reference 30–130), Total bilirubin: 18 μmol/L (Reference 0–20), Lactate: 3.5 mmol/L (Reference 0.6–1.4). Ultrasound scans confirmed moderate bilateral pleural effusions, ascites, mild hepatomegaly, and a thickened gallbladder wall. Reverse transcriptase PCR (RT-PCR) and a positive NS1 ELISA.",
+  "differential_diagnosis": "Dengue infection (with progression to severe disease, vascular leak, and compensated shock), rickettsial infections (e.g., scrub typhus), Malaria, Leptospirosis, Melioidosis.",
+  "management_and_clinical_course": "Admitted to a high-dependency unit for close observation and supportive care for compensated shock. Received fluid resuscitation with Ringer’s lactate solution, initially 10mL/kg over 1 hour. Due to persistent tachycardia, oliguria, and haematocrit rise to 55.1%, fluid therapy rate increased to 15mL/kg/hr, then reduced to 7mL/kg/hr for 2 hours, and further by 2mL/kg/hr every 2 hours until no longer required. Repeat clinical assessments undertaken at two-hourly intervals, with haematocrit checks every 6 hours. Patient discharged after complete recovery 3 days later.",
+  "final_diagnosis": "Severe Dengue (confirmed by RT-PCR and positive NS1 ELISA).",
+  "disease_name_short": "Dengue",
+  "images": []
+}

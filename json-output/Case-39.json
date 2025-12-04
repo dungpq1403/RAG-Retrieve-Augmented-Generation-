@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 30-year-old male Chinese itinerant trader, presented in Vientiane, Laos.",
+  "chief_complaint": "7 days of fever, chills, headache, and a dry cough.",
+  "history_of_present_illness": "Developed slide-positive falciparum malaria whilst living in southern Laos. He was treated with intravenous infusions and intramuscular artemether 80 mg for 5 days (brought from China as standby therapy) but did not improve. The fever persisted, jaundice developed, and he was then transferred to the capital Vientiane.",
+  "exposure_and_epidemiology": "Chinese itinerant trader, lived in southern Laos, referred to a hospital in Vientiane, Laos.",
+  "vitals": "Febrile (39.5°C, 103.1°F), normal blood pressure, normal Glasgow Coma Score.",
+  "physical_exam": "Nausea, dry cough, moderate dehydration, chest pain, abdominal tenderness. Chest clear, no hepatosplenomegaly.",
+  "labs_and_diagnostics": "Giemsa smear negative for malaria parasites. Rapid diagnostic test (HRP-2) positive for Plasmodium falciparum. Serum creatinine normal, serum glucose normal. ALT: 301 U/L (Reference range <40), AST: 230 U/L (Reference range <37), ALP: 470 U/L (Reference range <120), Total bilirubin: 14 μmol/L (Reference range <14.5), Direct bilirubin: 6.4 μmol/L (Reference range <4.3).",
+  "differential_diagnosis": "Bacterial co-infection (especially Salmonella species), scrub typhus (Orientia tsutsugamushi), murine typhus (Rickettsia typhi), leptospirosis, tuberculosis, dengue fever, artemisinin-resistant falciparum malaria, incorrect dose of artemether, poor quality artemether, issues with intestinal absorption of the medicine.",
+  "management_and_clinical_course": "The patient was treated with oral quinine sulphate 10 mg/kg every 8 hours and doxycycline 100 mg every 12 hours for 7 days. His fever cleared 35 hours after starting this therapy, and he was discharged well. Investigations later revealed the intramuscular artemether initially used only contained 59 mg (74% of stated 80 mg), indicating it was substandard. This substandard quality, combined with an likely underdosed regimen (approx. 1.0 mg/kg/day instead of 1.6 mg/kg/day after loading) and inadequate duration (5 days instead of 7), was identified as the reason for the poor initial clinical response. No evidence was found for any other infections.",
+  "final_diagnosis": "Persistent falciparum malaria due to substandard and underdosed artemether treatment.",
+  "disease_name_short": "Falciparum Malaria (due to poor quality drug)",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 64-year-old Japanese man with a medical history of hypertension and right cerebellar infarction. Had recent simple partial seizures well controlled by an antiepileptic agent.",
+  "chief_complaint": "Generalized tonic-clonic seizures followed by weakness of the right lower extremity.",
+  "history_of_present_illness": "Admitted due to generalized tonic-clonic seizures followed by weakness of the right lower extremity. Patient had a history of recent simple partial seizures that were well controlled by an antiepileptic agent.",
+  "exposure_and_epidemiology": "The probable infection route was through consumption of raw chicken meat, which the patient ate approximately once a month before the generalized seizure.",
+  "vitals": "Afebrile, GCS 15/15 on admission.",
+  "physical_exam": "Neurological examination on admission did not reveal any abnormality.",
+  "labs_and_diagnostics": "Laboratory results showed no abnormalities, including no eosinophilia or leukocytosis. Head CT revealed a small high-density nodule with an enhanced perifocal low-density area in the left occipital lobe. MRI showed a ring-enhancing, tunnel-shaped lesion (tunnel sign) in the left occipital lobe; specifically, a ring-shaped nodule with gadolinium enhancement in T1-weighted MRI, and an area of hyperintensity associated with an adjacent ventricular dilation in T2-weighted image. Post-contrast coronal and sagittal T1-weighted images demonstrated tunnel-shaped enhancement. Angiography findings were normal, except for right vertebral artery occlusion reflecting history of right cerebellar infarction. Enzyme-linked immunosorbent assay (ELISA) of serum and cerebrospinal fluid revealed strong positivity for Spirometra mansoni.",
+  "differential_diagnosis": "Brain tumours or metastases, neurocysticercosis, cerebral schistosomiasis, paragonimiasis, cerebral toxoplasmosis, cerebral cryptococcomas, and tuberculomas.",
+  "management_and_clinical_course": "Open surgery with craniotomy was performed to remove a live, white tape-like, worm-like structure (sparganum) from the center of the targeted lesion in the left occipital lobe. After surgical removal, the patient was well without seizures at the most recent examination. Surgical removal is the treatment of choice for cerebral sparganosis.",
+  "final_diagnosis": "Cerebral sparganosis caused by a Sparganum (larva of Spirometra mansoni).",
+  "disease_name_short": "Cerebral Sparganosis",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

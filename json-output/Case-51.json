@@ -1,0 +1,18 @@
+{
+  "patient_information": "A 34-year-old Malawian woman, HIV-positive (baseline CD4 count 54/μL), previously diagnosed with smear-positive pulmonary tuberculosis 5 months prior. Works as a street vendor, divorced, no children, lives in an urban high-density area.",
+  "chief_complaint": "Slowly progressive weakness of the left arm and leg.",
+  "history_of_present_illness": "Problems started approximately 3 months earlier with a limp in her left leg. Weakness progressed over following weeks to affect her left arm. Onset was insidious and progression slow. Denies head trauma, headache, recent fever, nausea, visual impairment, or weight loss. Review of systems unremarkable. Diagnosed with smear-positive pulmonary tuberculosis 5 months earlier, concurrently found to be HIV-reactive. Started on antituberculous therapy, vitamin B6, antiretroviral therapy (ART), and co-trimoxazole prophylaxis, all ongoing.",
+  "exposure_and_epidemiology": "From Malawi. Lives in an urban high-density area. Works as a street vendor.",
+  "vitals": "Afebrile, vital signs normal.",
+  "physical_exam": "General examination normal apart from slightly pale conjunctivae. Fundoscopy normal (no papilloedema or retinitis). Neurological examination: spastic hemiparesis on the left with hyperreflexia. Power in left leg 2/5 (active movement with gravity eliminated), left arm 3/5 (active movement against gravity). Pronator drift on the left (indicating proximal weakness). Sensation of pain reduced in left leg and hand. Cranial nerves normal.",
+  "labs_and_diagnostics": "Full blood count: WBC 3.8 x 10^9/L (reference range: 4–10), haemoglobin 9.9g/dL (12–14), platelets 140 x 10^9/L (150–350). Baseline CD4 count: 54/μL. Routine CSF examination: normal. India Ink stain: negative. Fungal cultures: negative. Patient on waiting list for cerebral MRI scan, performed at 8-week follow-up.",
+  "differential_diagnosis": "Focal brain lesion(s). Specific differentials include: Cerebral toxoplasmosis, progressive multifocal leukoencephalopathy (PML), CNS lymphoma, cryptococcoma, CMV encephalitis, tuberculoma, tuberculous abscess, brain tumour, brain metastases, cerebral abscess, neurocysticercosis, neuroschistosomiasis, Chagas’ disease. Tuberculoma, PML, cryptococcoma, and toxoplasmosis considered in the context of Immune Reconstitution Inflammatory Syndrome (IRIS).",
+  "management_and_clinical_course": "Currently taking antituberculous therapy, vitamin B6, antiretroviral therapy (ART), and co-trimoxazole prophylaxis. After negative CSF tests, started on empirical antitoxoplasmosis treatment with high-dose co-trimoxazole. ART and antituberculous treatment continued. Prednisolone 1mg/kg bodyweight added for presumed IRIS. Placed on waiting list for cerebral MRI scan. At 4-week follow-up, clinical status unchanged. At 8 weeks, further deterioration of power in left hand; MRI of head done.",
+  "final_diagnosis": "Not mentioned",
+  "disease_name_short": "Not mentioned",
+  "images": [
+    "page1_img1.jpeg",
+    "page3_img1.jpeg",
+    "page3_img2.jpeg"
+  ]
+}

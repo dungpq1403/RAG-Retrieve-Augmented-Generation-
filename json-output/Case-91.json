@@ -1,0 +1,14 @@
+{
+  "patient_information": "A previously healthy 20-year-old man from southern India.",
+  "chief_complaint": "Fever and quadriparesis.",
+  "history_of_present_illness": "He experienced fever for 4 days, followed by tingling and weakness initially in his left leg, which subsequently involved all four limbs over the next 2 days. After admission, he developed autonomic instability (evidenced by increased perspiration and significant variability in heart rate and blood pressure), dysphagia, and respiratory distress, requiring mechanical ventilation on the third day after hospitalization.",
+  "exposure_and_epidemiology": "He gives a history of a stray dog bite (WHO category III) on his left lower limb 1 month before onset of symptoms. This occurred in a rabies-endemic country (India). He received five doses of anti-rabies vaccine (purified chick embryo cell vaccine) post-exposure, but no rabies immunoglobulin (RIG).",
+  "vitals": "Blood pressure 110/70 mmHg, pulse 90 beats per minute, respiratory rate 26 breaths per minute, temperature 38.5°C (101.3°F).",
+  "physical_exam": "On admission, he was conscious with normal mental functions (GCS 15/15). Neurological examination revealed a flaccid, areflexic quadriparesis.",
+  "labs_and_diagnostics": "Blood investigations including serum electrolytes, renal and liver function test were normal. Cerebrospinal fluid (CSF) showed 52 mg/dL protein (reference: 15–50mg/dL), 60 mg/dL glucose (reference: 50–75mg, provided a normal serum glucose), and 340 cells/mm3 (60% polymorphs and 40% lymphocytes; normal < 5 cells/mm3). A saliva sample collected at admission was positive for rabies viral RNA by RT-PCR; a CSF sample was negative.",
+  "differential_diagnosis": "Guillain Barr e Syndrome, Post-vaccination encephalomyelitis, NMDAR antibody-mediated/Autoimmune encephalitis, Campylobacter-associated summer paralysis syndrome, Cerebral malaria, Herpes simplex encephalitis, Arthropod-borne encephalitides (e.g. Japanese encephalitis, West Nile Virus encephalitis, etc.), Poliomyelitis, B-virus (Cercopithecine herpesvirus 1) encephalomyelitis, Tetanus, Snake- or Scorpion-envenomation, Organophosphate poisoning, Illicit drug use, CNS intoxicants, Psychiatric disorders.",
+  "management_and_clinical_course": "He received five doses of anti-rabies vaccine after the dog bite, but no rabies immunoglobulin (RIG). During hospitalization, his condition progressed to autonomic instability, dysphagia, and respiratory distress, necessitating mechanical ventilation on the third day. The patient died due to a sudden cardiac arrest on the fifth day of hospitalization (9 days post-onset of symptoms).",
+  "final_diagnosis": "Paralytic Rabies, confirmed by positive rabies viral RNA by RT-PCR from a saliva sample.",
+  "disease_name_short": "Rabies",
+  "images": []
+}

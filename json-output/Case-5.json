@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 4-year-old unimmunized boy from a remote district hospital in Laos. He is described as small, quiet, stunted, thin, very poor, and chronically malnourished, living in a remote village of a poor developing country.",
+  "chief_complaint": "A dark sore on the child’s cheek, which rapidly progressed to a lesion of the lip and cheek.",
+  "history_of_present_illness": "Three days prior to presentation, the family noticed a dark sore on the child’s cheek. The child’s breath smells bad, he is not eating, and appears listless. The lesion rapidly progressed to eat through the child’s cheek. Two months prior, he had a fever and rash but recovered.",
+  "exposure_and_epidemiology": "Patient is from a remote village in Laos, a poor developing country. He is unimmunized and lives in extreme poverty, which, combined with chronic malnutrition, compromised his immune system.",
+  "vitals": "Not mentioned",
+  "physical_exam": "Appears small and quiet, stunted and thin. He has a gangrenous lesion in his mouth that has destroyed part of his upper and lower lips and cheek, exposing his teeth. A necrotizing lesion is present on the right cheek.",
+  "labs_and_diagnostics": "No diagnostic laboratory tests were performed as the diagnosis is made clinically.",
+  "differential_diagnosis": "Initially suspected: tooth abscess and cellulitis. Other considerations: oral cancer, syphilis, yaws, cutaneous leishmaniasis, mucocutaneous leishmaniasis.",
+  "management_and_clinical_course": "Recommended treatment included penicillin and metronidazole for suspected aerobic and anaerobic oropharyngeal bacteria, along with nutritional support (liquefied local foods like eggs, milk, soy, peanuts). Investigation and treatment for other conditions like malaria, intestinal parasites, tuberculosis, and vitamin deficiencies were advised. Removal of necrotic tissue and physiotherapy were recommended. Reconstructive surgery was advised not to be attempted for at least 1 year. The child was successfully treated with antibiotics and nutritional support. His face healed with contractures, resulting in disfigurement and salivary incontinence. At age 9, he underwent two reconstructive surgeries by an international surgical team, which improved his appearance and corrected salivary incontinence.",
+  "final_diagnosis": "Noma",
+  "disease_name_short": "Noma",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

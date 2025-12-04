@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 52-year-old German male safari tourist, returned from a 2-week holiday trip to South Africa (Cape Town, Garden Route, KwaZulu–Natal, Kruger Park and other game reserves). Past medical history unremarkable.",
+  "chief_complaint": "Fever for 2 days, night sweats, frontal headache, and a skin lesion on the left upper thigh.",
+  "history_of_present_illness": "A 52-year-old man presents with a 2-day history of fever, night sweats, and a frontal headache. He denied joint pains or rash initially. Ten days prior to presentation, he returned from a 2-week holiday in South Africa, including safari in Kruger Park and other game reserves, and travel through KwaZulu–Natal. He did not take antimalarial chemoprophylaxis. He noted a skin lesion on his left upper thigh.",
+  "exposure_and_epidemiology": "Travelled for 2 weeks in South Africa, visiting Cape Town, Garden Route, KwaZulu–Natal (a malaria-endemic region), Kruger Park, and several other game reserves. Did not take antimalarial chemoprophylaxis. African Tick-Bite Fever is common in safari tourists returning from Southern Africa, endemic in rural sub-Saharan Africa, and often occurs in game hunters, safari tourists, and campers in veld areas.",
+  "vitals": "Tympanic temperature 37.5°C (99.5°F) (after 1g paracetamol), pulse 80bpm, blood pressure 130/70mmHg.",
+  "physical_exam": "Fair general condition. No jaundice, neck supple. Enlarged lymph nodes in the left groin. A small necrotic skin lesion (0.7cm diameter) with surrounding inflammation and lymphangiitis on the left upper thigh, described as a typical eschar.",
+  "labs_and_diagnostics": "Malaria rapid diagnostic test, thick and thin film for malaria were negative. PCR from the eschar scab and serology (paired samples, IFA as gold standard) are mentioned as diagnostic options.",
+  "differential_diagnosis": "Malaria.",
+  "management_and_clinical_course": "Patient was prescribed doxycycline 100mg bid PO for 1 week. Fever settled within a few days, lymphadenopathy subsided, and the eschar healed after about 2 weeks. Doxycycline is given to speed up recovery, though ATBF is usually mild and self-limiting.",
+  "final_diagnosis": "African tick-bite fever (ATBF).",
+  "disease_name_short": "African Tick-Bite Fever",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

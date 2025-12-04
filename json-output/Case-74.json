@@ -1,0 +1,14 @@
+{
+  "patient_information": "28-year-old woman from eastern Sierra Leone.",
+  "chief_complaint": "6-day history of fever, weakness, sore throat, retrosternal chest pain, and loose stools.",
+  "history_of_present_illness": "A 28-year-old woman presented with a 6-day history of fever, weakness, sore throat, retrosternal chest pain, and 2 days of loose stools. She was initially treated at a local health post with artemether with amodiaquine and amoxicillin but worsened. On hospital admission, she received IV ceftriaxone and completed antimalarial medications; her malaria slide was negative. She continued to worsen over 2 days. On the second day post-admission, she developed conjunctivitis, cough, and breathlessness, becoming very unwell and unable to walk unaided.",
+  "exposure_and_epidemiology": "Resides in eastern Sierra Leone, an area common for Lassa fever, a zoonosis transmitted by Mastomys rats, likely through contact with infected rat urine.",
+  "vitals": "Axillary temperature 38.2°C (100.8°F), blood pressure 80/55 mmHg, pulse rate 100 bpm.",
+  "physical_exam": "Initial examination showed mild pharyngitis. On the second day after admission, she was very unwell and unable to walk unaided. Chest auscultation revealed bilateral fine crepitations. Conjunctivitis was also noted.",
+  "labs_and_diagnostics": "Malaria slide negative. Chest radiograph revealed diffuse bilateral infiltrates. Blood chemistry showed mild renal impairment and raised transaminases (AST/GOT 514 U/L, reference <50 U/L). Lassa fever was confirmed with antigen testing.",
+  "differential_diagnosis": "Adenovirus infections, Measles, Mycoplasma pneumoniae, Other forms of pneumonia, Leptospirosis, Typhoid, Lassa fever.",
+  "management_and_clinical_course": "Initially treated with artemether with amodiaquine and amoxicillin, but her condition worsened. On hospital arrival, she received IV ceftriaxone and completed antimalarial medications, but continued to deteriorate. Upon suspicion of Lassa fever, strict isolation precautions (goggles, masks, double gloves, disposable gowns) were recommended, and the patient was isolated in a specialist unit. She received IV ribavirin after Lassa fever was confirmed by antigen testing. Unfortunately, she was very unwell and died 2 days later. Contact tracing and monitoring were initiated for family, friends, and medical staff.",
+  "final_diagnosis": "Lassa fever.",
+  "disease_name_short": "Lassa Fever",
+  "images": []
+}

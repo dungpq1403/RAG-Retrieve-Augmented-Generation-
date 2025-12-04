@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 6-year-old boy from Malawi. He is known to be HIV-positive but is not yet on antiretroviral therapy (ART). Admitted to the paediatric high dependency unit of a Malawian Central Hospital.",
+  "chief_complaint": "High fever, dyspnoea, dry cough, and impaired consciousness.",
+  "history_of_present_illness": "The boy was admitted the night before due to high fever, dyspnoea, and a dry cough which had started 3 days prior. On admission, he was started on presumptive antimalarial treatment.",
+  "exposure_and_epidemiology": "From Malawi. HIV-positive, not yet on antiretroviral therapy.",
+  "vitals": "Temperature of 39.8°C (103.6°F), laboured breathing.",
+  "physical_exam": "Sick child with laboured breathing. Blantyre coma score of 3/5. Coryza and bilateral conjunctivitis. Fine maculopapular rash behind both ears and on the forehead (not previously described). Bilateral axillary lymphadenopathy. Later, the rash covered the trunk and skin scaling started over the chest.",
+  "labs_and_diagnostics": "Malaria smear results pending (later turned out to be negative).",
+  "differential_diagnosis": "Malaria, typhoid fever, atypical pneumonia, various viral infections, measles (suspected due to 'cough, coryza and conjunctivitis' and rash starting behind ears), rubella, enterovirus infection, infectious mononucleosis, scarlet fever, meningococcal disease, and rickettsial infections.",
+  "management_and_clinical_course": "On admission, started on presumptive antimalarial treatment. Required IV fluids and vitamin A for corneal protection. Malaria treatment was stopped after negative smears. Isolated and nursed in a separate room due to contagiousness. Developed severe pneumonia and received antibiotic treatment. After recovery, antiretroviral therapy was started in the out-patient clinic.",
+  "final_diagnosis": "Measles",
+  "disease_name_short": "Measles",
+  "images": [
+    "page2_img1.jpeg"
+  ]
+}

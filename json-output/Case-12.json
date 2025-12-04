@@ -1,0 +1,17 @@
+{
+  "patient_information": "29-year-old man from The Gambia.",
+  "chief_complaint": "Painful sores involving his private parts for 7 days.",
+  "history_of_present_illness": "Previously well. Complaining of painful sores involving his private parts for 7 days. He admitted to having had unprotected sex with a commercial sex worker 2 weeks ago.",
+  "exposure_and_epidemiology": "Unprotected sex with a commercial sex worker 2 weeks ago.",
+  "vitals": "Afebrile.",
+  "physical_exam": "In considerable pain, only able to walk with difficulty. Well nourished. General examination unremarkable. Numerous painful ulcers on his penis, scrotum and inner thigh. The ulcers are tender, soft and bleed on contact. No inguinal lymphadenopathy.",
+  "labs_and_diagnostics": "HIV-negative. Syphilis serology positive (RPR and TPHA). Swab taken for culture of Haemophilus ducreyi, and H. ducreyi was grown after three days’ incubation at 33°C.",
+  "differential_diagnosis": "Herpes simplex, syphilis, and chancroid.",
+  "management_and_clinical_course": "Treated with 2.4 million units of benzathine penicillin IM stat and erythromycin 500mg qds for 7 days. Returned for follow-up after 7 days; pain had resolved and ulcers were healing.",
+  "final_diagnosis": "Chancroid (confirmed by Haemophilus ducreyi culture) and Syphilis (confirmed by serology).",
+  "disease_name_short": "Chancroid, Syphilis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

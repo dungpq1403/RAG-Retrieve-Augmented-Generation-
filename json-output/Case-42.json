@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 41-year-old male yoga teacher presents to a travel clinic in Europe. He has just returned from a 10-day trip to northern Australia, with a 3-day stopover on a Thai island for a beach holiday. He is otherwise completely well.",
+  "chief_complaint": "Intensely itchy skin eruptions on both upper thighs for the past week.",
+  "history_of_present_illness": "Just after his arrival in Australia, he developed three intensely itchy skin eruptions on both upper thighs. The itch is so intense that at times it keeps him awake at night. There has been no fever, no cough or wheeze, and he is otherwise completely well.",
+  "exposure_and_epidemiology": "Recently returned from a 10-day trip to northern Australia and a 3-day beach holiday on a Thai island. The patient was probably infected while lying on the beach or performing yoga exercises in the sand.",
+  "vitals": "No fever mentioned. Other vitals not mentioned.",
+  "physical_exam": "On both upper thighs, there are a total of three reddish, serpiginous tracks, about 2mm in width. The inguinal lymph nodes are not enlarged. The chest is clear. The rest of the examination is unremarkable.",
+  "labs_and_diagnostics": "The diagnosis was established clinically, supported by the patient’s travel history. No other investigations were required or performed for this patient. Skin biopsy is not helpful, and no reliable serological tests are available.",
+  "differential_diagnosis": "Creeping eruption, Cutaneous larva migrans (CLM) caused by larvae of animal hookworms, Strongyloides stercoralis (larva currens), adult nematodes (Gnathostoma species), trematodes (Fasciola species), and larvae of parasitic flies (migratory myiasis).",
+  "management_and_clinical_course": "The patient was prescribed a single-dose treatment of ivermectin (200 μg/kg). The itchy eruptions settled within a few days of taking the drug.",
+  "final_diagnosis": "Hookworm-Related Cutaneous Larva Migrans (CLM)",
+  "disease_name_short": "Cutaneous Larva Migrans (CLM)",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

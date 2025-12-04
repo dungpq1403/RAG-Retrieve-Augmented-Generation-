@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 14-year-old Malawian boy.",
+  "chief_complaint": "Extensive necrotic wound on his right foot.",
+  "history_of_present_illness": "Three weeks prior, while playing in rocky grassland near a maize field, he stepped on a brown snake with V-shaped black bands, approximately one metre long. His friends reported the snake hissed loudly before biting him, though he did not realize it at the time. Shortly after the bite, haemorrhagic bullae formed on his right leg, his gums bled, and he vomited extensively. He was taken to a local traditional healer, after which bleeding and vomiting settled, but he developed intense pain and swelling at the bite site.",
+  "exposure_and_epidemiology": "Bitten by a snake three weeks earlier while playing in rocky grassland on a path leading to a maize field in Malawi. The snake was described as brown with V-shaped black bands, about one metre long, and hissed loudly.",
+  "vitals": "Temperature 39.4°C, pulse 126bpm, blood pressure 85/60mmHg, respiratory rate 30 breath cycles per minute.",
+  "physical_exam": "Appears weak and is in respiratory distress. There is an extensive, foul-smelling necrosis affecting his right foot and ankle with exposed tendons. The right lower leg is swollen, and he is unable to bend the ankle of his right foot. The inguinal lymph nodes are enlarged on the right side. Urine is clear, rectal exam shows no signs of bleeding, no haemoptysis upon provoked coughing, and fundoscopy is normal.",
+  "labs_and_diagnostics": "20-minute whole blood clotting test (WBCT20) is normal. WBC: 19 x 10^9/L (Reference: 4–10). Haemoglobin: 9.5 mg/dL (Reference: 12–14). Platelets: 60 x 10^9/L (Reference: 150–400). K+: 4.2 mmol/L (Reference: 3.5–5.2).",
+  "differential_diagnosis": "African puff-adder (Bitis arietans) bite. Saw-scaled or carpet viper (Echis species) was also mentioned as producing similar symptoms.",
+  "management_and_clinical_course": "Initially treated by a local traditional healer, after which bleeding and vomiting resolved. Due to the 3-week delay, antivenom was not deemed useful upon hospital admission. He was managed according to international sepsis treatment guidelines, including early broad-spectrum antibiotics, ventilatory support, fluid resuscitation, and tetanus prophylaxis. The wound was managed surgically with several debridements, followed by successful mesh-grafting. No further reconstructive surgery was needed, and severe local complications did not develop. He was discharged several weeks later with some functional impairment of his right foot and booked for outpatient physiotherapy.",
+  "final_diagnosis": "African puff-adder (Bitis arietans) snake bite with extensive local necrosis and sepsis.",
+  "disease_name_short": "Snake Bite",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

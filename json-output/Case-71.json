@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 71-year-old Japanese man from Kyushu district, southern Japan.",
+  "chief_complaint": "Referred for further work-up of a nodular lesion in his right lung. Patient reports no complaints and is clinically well.",
+  "history_of_present_illness": "A nodular lesion in the right lung was first detected 2 years earlier during a routine health check. Initially, it was of linear shape. Regular follow-up since then showed that the linear lung shadow had turned into a nodular lesion of about 2cm in diameter by chest radiography and CT scan at his most recent visit.",
+  "exposure_and_epidemiology": "Patient was born and is still living in Kyushu district, southern Japan. He has no history of travelling overseas. Southern Japan is an endemic area for Paragonimus.",
+  "vitals": "Vital signs were normal.",
+  "physical_exam": "Chest was clear. Remainder of the physical examination was also normal.",
+  "labs_and_diagnostics": "Full blood count: WBC 6.5 (normal), Haemoglobin 15.3 (normal), Platelets 190 (normal), Neutrophils 46.1% (normal), Lymphocytes 38.6% (normal), Monocytes 6.4% (normal), Eosinophils 8.3% (elevated, ref 0-6%), Total eosinophil count 0.54 (elevated, ref <0.45), Basophils 0.6% (normal). Total IgE 185.7 U/mL (elevated, ref <100 U/mL). Liver and renal function tests, electrolytes, LDH, and CRP were normal. Serologies: Cryptococcus Ag negative, Aspergillus Ag negative, β-D-glucan 6.0pg/mL (<20pg/mL), QuantiFERON test (QFT-2G) negative. Imaging: Chest radiography and CT scan showed a nodular lesion of about 2cm in diameter in the right lung. FDG-PET-CT showed increased FDG-uptake into the lesion in the right upper lobe. Bronchoscopy did not reveal any signs of malignancy. Cytology of bronchoalveolar lavage (BAL) fluid was negative for malignant cells and acid-fast bacilli. A wide range of tumour markers were negative. Immunodiagnosis of parasitic diseases: Multiple-dot ELISA was strongly positive for P. westermani.",
+  "differential_diagnosis": "Pulmonary tuberculosis, lung cancer, systemic endemic mycoses (histoplasmosis, blastomycosis, paracoccidioidomycosis - though later ruled out), pulmonary helminth infections (especially lung fluke infection/paragonimiasis).",
+  "management_and_clinical_course": "The patient was treated with oral praziquantel 25mg/kg three times daily (tds) for 3 consecutive days. The lung lesion gradually faded and eventually disappeared. His serum antibody titre also declined.",
+  "final_diagnosis": "Paragonimiasis due to P. westermani.",
+  "disease_name_short": "Paragonimiasis",
+  "images": [
+    "page2_img1.jpeg",
+    "page3_img1.jpeg",
+    "page3_img2.jpeg",
+    "page4_img1.jpeg",
+    "page4_img2.jpeg"
+  ]
+}

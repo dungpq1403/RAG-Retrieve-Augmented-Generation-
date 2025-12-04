@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 28-year-old man from Ghana (West African).",
+  "chief_complaint": "Painful chronic ulcer on his left ankle, pain in his right thigh and in both knees.",
+  "history_of_present_illness": "The ulcer on his left ankle has been present for the past 4 months and is not healing. There is no history of prior trauma, but he had a previous ulcer on his right ankle some years ago which took about a year to heal. He also complains of pain in his right thigh and in both knees.",
+  "exposure_and_epidemiology": "From Ghana, West African context.",
+  "vitals": "Temperature 36.6°C, pulse 88 bpm, blood pressure 110/70mmHg.",
+  "physical_exam": "The patient is short for an adult, pale, and has a tinge of jaundice. The ulcer is on his left ankle, next to the medial malleolus, with hyperpigmented skin surrounding it. There is tenderness in both knee joints and in his right thigh. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "Initial visit: WBC 17.6 x 10^9/L, Haemoglobin 6.9 g/dL, Platelet Adequate, Fasting blood glucose 4.8 mmol/L. Peripheral blood film showed irreversibly sickled cells, polychromasia, target cells, nucleated red cells, and adequate platelets. The sickling test was positive, and haemoglobin electrophoresis showed a homozygous HbSS-type. Wound swab grew Pseudomonas species sensitive to levofloxacin. Radiography of the left leg showed a periosteal reaction with slightly sclerotic bones. Six years later: WBC 9.2 x 10^9/L, Haemoglobin 8.3 g/dL, Platelet 364 x 10^9/L.",
+  "differential_diagnosis": "Venous ulcer, hereditary haemolytic anaemias (thalassaemia, sickle cell disease, spherocytosis, pyruvate kinase deficiency - sickle cell disease being the most likely), tropical ulcer, diabetic ulcer, chronic osteomyelitis with a discharging sinus, Buruli ulcer, other mycobacterial infections, pyoderma gangrenosum, and malignant diseases.",
+  "management_and_clinical_course": "The patient was managed with alternate daily wound dressing using normal saline irrigation and povidone-iodine. Systemic antibiotic treatment was given due to his generally poor condition and Pseudomonas growth. Strict bed rest was difficult to enforce. Recurrent bone pain was managed conservatively with good hydration, prompt treatment of infections, and relief of other identifiable precipitants of crises. He received daily folic acid supplementation. Pain relief was achieved with paracetamol and tramadol. On follow-up 3 years later, the ulcer was still not healed, and grafting was under consideration once healthy granulation tissue was achieved. Six years later, the wound had still not healed, the patient could not afford a skin graft, and he continued with 3 times weekly dressing, feeling well in himself.",
+  "final_diagnosis": "Sickle cell disease with a chronic ankle ulcer.",
+  "disease_name_short": "Sickle cell disease",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

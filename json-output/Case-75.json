@@ -1,0 +1,17 @@
+{
+  "patient_information": "23-year-old HIV-positive Zambian woman, unmarried with three children, works in a hospital cafeteria. She does not drink alcohol or use recreational drugs. History of successfully treated pulmonary tuberculosis 4 years ago.",
+  "chief_complaint": "New-onset seizure.",
+  "history_of_present_illness": "The patient experienced her first ever seizure, which occurred out of sleep. Her son found her unresponsive and shaking all four limbs for 5 to 10 minutes. She was diagnosed with HIV infection 1 month prior and is not yet on antiretroviral therapy (ART) but has been taking co-trimoxazole prophylaxis for 7 days. She was successfully treated for pulmonary tuberculosis 4 years ago.",
+  "exposure_and_epidemiology": "From Zambia, referred to a local teaching hospital in Lusaka. She is HIV-positive with advanced immunosuppression (CD4 count 153 cells/μL). Works in a hospital cafeteria. History of successfully treated pulmonary tuberculosis. No alcohol or recreational drug use.",
+  "vitals": "Normal vital signs, afebrile, GCS 15/15.",
+  "physical_exam": "Looks well, no meningism, chest is clear, neurological examination is unremarkable.",
+  "labs_and_diagnostics": "Malaria rapid diagnostic test: negative. Blood results: WBC 5.8 x 10^9/L, Haemoglobin 11.0 g/dL (low), Platelets 215 x 10^9/L, CD4 count 153 cells/μL (low), Serum sodium 135 mmol/L, Serum glucose 4.5 mmol/L. Lumbar puncture: normal opening pressure, clear CSF. CSF results: Leukocytes 5 cells/μL, CSF protein 0.78 g/L (high), CSF glucose 2.9 mmol/L. Cryptococcal antigen, India Ink stain, Gram stain, and Ziehl–Neelsen stain on CSF were all negative. Electroencephalography (EEG): focal slowing in the right hemisphere. CT scan of brain: frontal and parietal hypodense lesions in the white matter of the right hemisphere, with no contrast enhancement.",
+  "differential_diagnosis": "Tuberculoma, progressive multifocal leukoencephalopathy (PML), cerebral toxoplasmosis, cryptococcoma, brain abscess, primary CNS lymphoma, neurocysticercosis.",
+  "management_and_clinical_course": "Management should include antiepileptic treatment, with phenobarbitone and carbamazepine being most available and affordable in sub-Saharan Africa. Considerations for drug interactions with ART and hormonal contraception are noted. Patient and guardians should be counselled about the epileptic disorder. For the strongly suspected PML, commencing antiretroviral therapy (ART) is the only therapeutic option, as there is no causative treatment.",
+  "final_diagnosis": "Lesions strongly suggestive of Progressive Multifocal Leukoencephalopathy (PML) in an HIV-positive patient with advanced immunosuppression, presenting with symptomatic seizures.",
+  "disease_name_short": "Progressive Multifocal Leukoencephalopathy (PML)",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

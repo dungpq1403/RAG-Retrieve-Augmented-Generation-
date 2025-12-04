@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 4-year-old girl from Bolivia.",
+  "chief_complaint": "A slowly growing nodule on the fifth toe of her right foot that is moderately painful when wearing shoes.",
+  "history_of_present_illness": "The nodule has been present for several days. Parents reported observing white oval granules emerging from the nodule when they tried to squeeze it. Her 9-year-old brother has similar lesions on two toes.",
+  "exposure_and_epidemiology": "The family moved from Chile to the Cochabamba region in Bolivia about 6 months ago, where they live on a farm. This region is endemic for Tungiasis.",
+  "vitals": "Not mentioned.",
+  "physical_exam": "4-year-old girl in good general health. Close to the root of the fifth toenail of the right foot, there is a dark-brown small nodule with a tiny central ulceration, surrounded by minimal inflammatory reaction.",
+  "labs_and_diagnostics": "Clinical diagnosis was made based on the macroscopic presentation and localization of the lesion. Microscopic examination of removed tissue confirmed the diagnosis, showing parts of a female flea and typical eggs (size 600 × 280 μm).",
+  "differential_diagnosis": "Not mentioned.",
+  "management_and_clinical_course": "The parasite was completely removed using a sterile needle and/or curette. The resulting round lesion was disinfected and dressed. The patient's tetanus vaccination status was to be checked, and the wound was to be observed and treated for superinfection if necessary. The skin lesion healed within a week without complications.",
+  "final_diagnosis": "Tungiasis.",
+  "disease_name_short": "Tungiasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg"
+  ]
+}

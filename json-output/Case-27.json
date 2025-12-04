@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 16-year-old Sri Lankan boy.",
+  "chief_complaint": "Fever, frontal headache, severe body aches for 2 days, vomiting two to three times, anuria for 12 hours. Later noted with jaundice and renal failure.",
+  "history_of_present_illness": "A 16-year-old Sri Lankan boy presented with fever, frontal headache, and severe body aches for 2 days. He had vomited two to three times during the illness and reported not passing any urine for the previous 12 hours. He denied cough, coryza, or shortness of breath. He had been attending school until his illness.",
+  "exposure_and_epidemiology": "He had been fishing in an urban water stream 5 days before falling ill.",
+  "vitals": "Temperature: 38.3°C (100.9°F), Pulse rate: 100 bpm (low in volume), Blood pressure: 90/60 mmHg.",
+  "physical_exam": "Appears ill and drowsy. Jaundiced with subconjunctival haemorrhages. No neck stiffness. Severe muscle tenderness, mainly involving the abdominal wall and calves, causing difficulty walking. No lymphadenopathy. Cardiac apex not shifted, heart sounds clear. Lungs normal. Liver palpable at 4cm below the right costal margin and tender. Spleen not palpable. Mild bilateral renal angle tenderness. Neurological examination normal.",
+  "labs_and_diagnostics": "Urine microscopy: 20 red blood cells per high-power field, proteins ‘+’, granular casts ‘+’. Chest radiograph: normal. ECG: sinus tachycardia. Laboratory results on admission: WBC 5.7 x 10^9/L (neutrophils: 68%, lymphocytes: 31%), Haemoglobin 14.8 g/dL, Platelets 96 x 10^9/L (low), AST 64 IU/L (elevated), ALT 58 IU/L (elevated), ALP 246 IU/L (elevated), Serum bilirubin total 77 μmol/L (elevated), Serum bilirubin direct 54.7 μmol/L (elevated), Blood urea nitrogen 20.7 μmol/L (elevated), Serum creatinine 212.2 μmol/L (elevated), C-reactive protein 48 mg/L (elevated).",
+  "differential_diagnosis": "Leptospirosis, Scrub typhus, Hantavirus infection (haemorrhagic fever with renal syndrome), Dengue haemorrhagic fever (DHF).",
+  "management_and_clinical_course": "Severe leptospirosis was suspected, and the patient was commenced on empirical benzylpenicillin. Despite rehydration, he developed acute renal failure requiring haemodialysis (HD). He developed myocarditis and atrial fibrillation but tolerated further HD. He gradually recovered over 10 days with intensive care management.",
+  "final_diagnosis": "Leptospirosis (suspected and treated as severe leptospirosis)",
+  "disease_name_short": "Leptospirosis",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

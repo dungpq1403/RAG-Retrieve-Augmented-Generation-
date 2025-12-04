@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 62-year-old woman from rural Ethiopia. Normally fit and well, very physically active due to working on her smallholding.",
+  "chief_complaint": "Difficulty eating, described as 'stiffness of the mouth' and difficulty chewing.",
+  "history_of_present_illness": "Three days after arriving in Europe from Ethiopia, she began to find it difficult to chew, experiencing 'stiffness of the mouth'. This had never happened before.",
+  "exposure_and_epidemiology": "From rural Ethiopia. Worked on a smallholding (agricultural work). Recently flown to Europe to visit her daughter.",
+  "vitals": "Pulse, blood pressure, and respiratory rate are within normal limits.",
+  "physical_exam": "No abnormal findings discovered on examination. Unremarkable.",
+  "labs_and_diagnostics": "An ESR was suggested to be performed urgently to exclude Giant Cell Arteritis (GCA).",
+  "differential_diagnosis": "Early tetanus, Giant cell arteritis (GCA).",
+  "management_and_clinical_course": "Initial treatment for possible tetanus involved antibiotic (metronidazole) and antitoxin injection on day 1. On day 2, she presented with two generalized spasms. Over the next 2 days, spasms increased in frequency, severity, and duration over 5 days, and she developed dysphagia. She was treated with diazepam and intrathecal antitoxin. A prophylactic tracheotomy was performed. Her symptoms did not worsen after 7 days; she did not require paralysis and ventilation. Respiration was not severely compromised. She made a slow recovery over 3 weeks and was still experiencing stiffness 3 months later.",
+  "final_diagnosis": "Tetanus.",
+  "disease_name_short": "Tetanus",
+  "images": []
+}

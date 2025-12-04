@@ -1,0 +1,18 @@
+{
+  "patient_information": "A 24-year-old man of Turkish origin. He is a German resident but visits his family in rural eastern Turkey (Anatolia) every year for about 6 weeks.",
+  "chief_complaint": "Right upper quadrant pain, nausea, vomiting, and jaundice.",
+  "history_of_present_illness": "Three years prior, the patient presented with right upper quadrant pain. Ultrasound and CT scans of the liver revealed two calcified cystic lesions (one in the right liver lobe, 7x6cm, with solid matrix and multiple smaller cysts, partially calcified, WHO classification CE3b; another smaller cyst in the left liver lobe, 5x4cm, with a wall up to 4mm thick with partial calcification, liquid content, double line sign, hydatid sand, WHO CE1). Serology was positive for Echinococcus granulosus, leading to a diagnosis of cystic echinococcosis (CE). Anthelmintic treatment was not considered due to calcified cyst walls, and the patient refused surgical treatment as he was asymptomatic. Cysts were monitored regularly by ultrasound. He now presents with right upper quadrant pain, nausea, vomiting, and jaundice.",
+  "exposure_and_epidemiology": "German resident but visits his family in rural eastern Turkey (Anatolia), a hyperendemic region for CE, every year for about 6 weeks.",
+  "vitals": "Blood pressure 110/70mmHg, pulse 64 bpm, temperature 36°C (96.8°F).",
+  "physical_exam": "Fair general condition with scleral jaundice. Right upper quadrant and epigastric tenderness, but no guarding.",
+  "labs_and_diagnostics": "Full blood count is normal. Laboratory results on presentation: AST 145 U/L (reference <35), ALT 454 U/L (reference <35), GGT 394 U/L (reference <55), ALP 402 U/L (reference 38–126), Total bilirubin 120 μmol/L (reference <19.0), ESR 17/40 mm/h (reference ≤10/20), CRP 49 mg/L (reference <5). Three years prior, ultrasound and CT scan of the liver revealed two calcified cystic lesions. Serology was positive for Echinococcus granulosus. Current diagnostic: Endoscopic retrograde cholangiography (ERC) revealed biliary obstruction due to a cystobiliary fistula.",
+  "differential_diagnosis": "Congenital simple hepatic cyst, pseudocysts (necrotic cavity) in alveolar echinococcosis (E. multilocularis), infectious causes (abscesses - bacterial, amoebic; tuberculoma), benign and malignant liver tumours or metastases.",
+  "management_and_clinical_course": "ERC was performed, confirming a cystobiliary fistula with biliary obstruction. CE cyst content was removed from the common bile duct, and bile flow was restored. The patient's cholangitis was treated with ciprofloxacin and metronidazole. Once the inflammation settled, the patient was referred for surgery, and partial cystectomy was performed on both cysts. The patient has been followed up for 9 years after surgery with no recurrence and is considered cured.",
+  "final_diagnosis": "Cystic echinococcosis (CE) complicated by a cystobiliary fistula with biliary obstruction and bacterial cholangitis.",
+  "disease_name_short": "Cystic Echinococcosis",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

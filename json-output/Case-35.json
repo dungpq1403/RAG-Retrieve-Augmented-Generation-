@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 32-year-old Malawian woman.",
+  "chief_complaint": "Headache and blurred vision.",
+  "history_of_present_illness": "3-week history of gradual onset headache and blurred vision. The headache did not respond to over-the-counter painkillers. There was no fever, convulsions, or head trauma. She had received presumptive antimalarial treatment (artemether/lumefantrine) and a 5-day course of antibiotics (amoxicillin 500mg tds) at a local health centre, which provided no benefit.",
+  "exposure_and_epidemiology": "From Malawi, a region with a high HIV prevalence. HIV serology was positive, and her CD4 count was very low at 22/μL.",
+  "vitals": "All vital signs were normal and she was afebrile.",
+  "physical_exam": "The patient appeared wasted and slightly anaemic. GCS was 15/15. No neck stiffness. Visual acuity was normal on both sides. On left lateral gaze, there was an abduction deficit of the left eye with 'blurring of vision' reported by the patient. The rest of the examination was normal.",
+  "labs_and_diagnostics": "Full blood count showed: WBC 3.7 x 10^9/L (Ref 4–10), Haemoglobin 10.2 g/dL (Ref 12–16), MCV 92 fL (Ref 80–98), Platelets 91 x 10^9/L (Ref 150–350). Fasting blood glucose was 5.43 mmol/L (Ref 5.0–6.7). Malaria RDT was negative. Lumbar puncture revealed CSF clear, with an increased opening pressure of 50cmH2O (normal 10–18cmH2O). CSF results: Leukocytes 18 cells/μL (Ref 0–5), Protein 0.8 g/L (Ref 0.15–0.40), Glucose 1.97 mmol/L (Ref 2.22–3.88). India Ink was negative. Fungal culture of CSF was positive for C. neoformans. HIV serology was positive. CD4 count was 22/μL. Cryptococcal antigen (CrAg) was not available.",
+  "differential_diagnosis": "Chronic meningitis, with the two most important differential diagnoses being cryptococcal meningitis and tuberculous meningitis. Partially treated bacterial meningitis was also considered but deemed less likely due to the gradual onset of symptoms.",
+  "management_and_clinical_course": "A lumbar puncture was performed on admission. She was started on oral fluconazole 1200mg (as Amphotericin B and flucytosine were unavailable). Co-trimoxazole prophylaxis was also initiated. She received repeated therapeutic lumbar punctures until her headache settled. Antiretroviral therapy (ART) was commenced 4 weeks into her antifungal treatment. The patient returned to her village and died 6 weeks later of an unknown cause.",
+  "final_diagnosis": "Cryptococcal meningitis and HIV infection.",
+  "disease_name_short": "Cryptococcal Meningitis, HIV",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

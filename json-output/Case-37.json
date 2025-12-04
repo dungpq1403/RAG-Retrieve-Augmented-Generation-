@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 29-year-old woman from Malawi, brought to the hospital by relatives. She is married with four children and works as a housewife. Her husband is a farmhand on a local chicken farm. They live in a grass-thatched mud-hut, collect water from a borehole, and have no electricity. They eat two meals a day, mainly maize porridge with few vegetables, rarely affording fish or meat. Past medical history is uneventful; no psychiatric disorders. HIV status was unknown initially. Not taking any medication. No known intoxications, alcohol, or recreational drug use.",
+  "chief_complaint": "Confusion, diarrhoea and a skin rash.",
+  "history_of_present_illness": "Confused, restless, and irritable for the past month. Watery diarrhoea started 1 week ago. No fever. A skin rash has been present for the past 2 months. The presentation occurred in January, the rainy season in Malawi.",
+  "exposure_and_epidemiology": "Resides in Malawi, a poor villager living on an imbalanced diet mainly consisting of maize porridge. This occurred during January, the rainy season, which is also the 'hungry season' in Malawi. Her husband works on a local chicken farm.",
+  "vitals": "Afebrile, remaining vital signs are normal. Glasgow Coma Scale 14/15 (confusion).",
+  "physical_exam": "Slim but not wasted. Glasgow Coma Scale 14/15 (confusion). No neck stiffness. Conjunctivae are pale. A noticeable, clearly demarcated skin rash is present around the patient’s neck (hyperpigmented, dry, sun-exposed), on her forearms, hands and feet (hyperpigmented, dry, scaly). The rest of the physical examination is unremarkable.",
+  "labs_and_diagnostics": "Initial HIV test result: Negative. Full blood count showed microcytic anaemia with a haemoglobin of 6.7g/dL and a Mentzer index >13. Stool microscopy was not feasible in resource-constrained setting.",
+  "differential_diagnosis": "Pellagra (vitamin B3 deficiency), HIV infection (including associated tuberculous meningitis, cryptococcal meningitis, progressive multifocal leukoencephalopathy, HIV-associated neurocognitive disorder), Systemic lupus erythematosus, Chronic kidney disease (uraemia), Iron deficiency anaemia, β-thalassaemia, Intestinal helminth infection.",
+  "management_and_clinical_course": "Management involved an HIV test (negative), a full blood count (revealing microcytic anaemia), vitamin B-complex, iron and folic acid supplementation, and a single dose of albendazole. Dietary counselling was provided, including advising to eat maize directly from the cob. Soothing applications for skin lesions were prescribed, and sun exposure was advised to be avoided. Confusion settled within a week, and diarrhoea stopped. Patient was discharged with a plan for a 3-month outpatient follow-up including a repeat full blood count.",
+  "final_diagnosis": "Pellagra (vitamin B3 deficiency) with microcytic anaemia and presumed intestinal helminth infection.",
+  "disease_name_short": "Pellagra",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg"
+  ]
+}

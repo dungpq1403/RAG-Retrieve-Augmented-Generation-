@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 33-year-old male from Finland, who had been backpacking in India for the previous month.",
+  "chief_complaint": "Diarrhoea and flatulence for two weeks.",
+  "history_of_present_illness": "Passage of loose stools (four or five episodes per day) for the past 2 weeks. Reports weight loss, anorexia, malaise, flatulence, and abdominal cramping when passing stool. For the past 3 days, he has had bloating and distension after intake of milk products with an urge to pass stool. He has mild nausea, but no fever. Stools were watery earlier but he took ciprofloxacin for 5 days, ending 2 days previously, and stools are now three or four per day, mushy, greasy, and foul-smelling.",
+  "exposure_and_epidemiology": "Travelled to India for the previous month, backpacking.",
+  "vitals": "Height: 180cm, Weight: 72kg (reports a 4kg weight loss). Other vitals not mentioned.",
+  "physical_exam": "Mild non-specific abdominal tenderness. No signs of dehydration. The rest of the examination is normal.",
+  "labs_and_diagnostics": "Stool for reducing substances: positive. Stool examination for enteric parasites: Giardia trophozoites are seen in the fresh specimen. Giardia cysts are detected on formol-ether concentrated specimens.",
+  "differential_diagnosis": "Not mentioned",
+  "management_and_clinical_course": "The patient was given tinidazole 2g as a single oral dose. He was advised to restrict milk and high sugar products for a period of 2 weeks. He was counselled on food and water safety when travelling and was asked to return after 3 days. On review, he stated that his stool consistency had returned to normal and the frequency had decreased, he had no nausea and his anorexia had decreased. He had experienced some bloating and discomfort after eating a local dessert made of reduced milk, but was otherwise feeling much better.",
+  "final_diagnosis": "Giardiasis",
+  "disease_name_short": "Giardiasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 51-year-old female Swiss traveller. No chronic underlying disease nor the intake of any medication was reported.",
+  "chief_complaint": "Conjunctivitis, generalized maculopapular rash, and peripheral oedema.",
+  "history_of_present_illness": "Presented to the outpatient department 6 days after returning from a 2-week holiday to Guatemala and El Salvador. Four days after her return, the patient noticed a generalized slightly pruritic maculopapular rash on the face, trunk, and extremities. There was no fever and no other accompanying symptoms. On the next day, the rash worsened, and a non-purulent bilateral conjunctivitis developed.",
+  "exposure_and_epidemiology": "Returned from a 2-week holiday to Guatemala and El Salvador 6 days prior to presentation. Symptoms began 4 days after her return.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Conjunctivitis, a generalised maculopapular rash involving the face, tender oedema of the hands, elbows, knees and feet, and generalized lymphadenopathy (cervical, axillary, and inguinal).",
+  "labs_and_diagnostics": "Full blood count was normal. CRP was 8 mg/L (<5). Creatinine was very mildly elevated (87 μmol/L, range 35–80 μmol/L). Liver function tests were normal. Rapid diagnostic tests (RDTs) for dengue and chikungunya were negative. Further lab results from a reference laboratory: Dengue IgM IIFT negative (first and second sample), Dengue IgG IIFT 1:20 (first sample) to 1:5120 (second sample) interpreted as cross-reactivity, Dengue NS1-Ag negative (first and second sample). Chikungunya IgM ELISA negative (first sample), Chikungunya IgM IIFT negative (second sample), Chikungunya IgG IIFT negative (second sample). Zika IgM IIFT negative (first sample) to 1:640 (second sample) positive. Zika IgG IIFT 1:20 (first sample) to 1:5120 (second sample) positive. Zika RT-PCR positive (first sample).",
+  "differential_diagnosis": "Arboviral infections, including dengue, chikungunya, and Zika virus infections.",
+  "management_and_clinical_course": "Not mentioned",
+  "final_diagnosis": "Zika virus infection, confirmed by PCR and seroconversion.",
+  "disease_name_short": "Zika virus infection",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

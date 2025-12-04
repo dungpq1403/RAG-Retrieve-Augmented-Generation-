@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 24-year-old Dutch female yoga instructor.",
+  "chief_complaint": "One episode of strange sensations (pins and needles) in the right side of her body, starting in the right side of her face, marching to her right arm, then involving her right leg, lasting for about 2 minutes.",
+  "history_of_present_illness": "She had a similar episode several months ago but did not consult a doctor at that time.",
+  "exposure_and_epidemiology": "Four years prior, she spent 2 years backpacking extensively through South America (Ecuador, Peru, Argentina) and South-east Asia (Thailand, Laos, Cambodia), staying in hostels or private accommodations. She describes herself as an ‘eco-traveller’, visiting the countryside and staying with local people. She has been a strict vegan for the past 8 years, eating food from local vendors (fruits, vegetables, nuts, rice) but no animal products.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Looks well. Neurological examination is completely unremarkable. The rest of her physical examination is also normal.",
+  "labs_and_diagnostics": "Routine blood investigations, including differential blood count and C-reactive protein, are completely normal. CSF examination is unremarkable. MRI of her brain with gadolinium enhancement shows multiple cortical and subcortical cystic lesions in both hemispheres (some with gadolinium enhancement of the wall and surrounding oedema). Enzyme-linked immunoelectrotransfer blot (EITB) for anticysticercal antibodies in serum and CSF came back positive. Follow-up MRI showed regression of all cysts. Follow-up CT scan at 2 years showed two calcifications.",
+  "differential_diagnosis": "Focal epileptic seizure with Jacksonian 'sensory march'. Given neuroimaging findings (multiple cortical and subcortical cystic lesions, some with gadolinium enhancement and surrounding oedema) and travel history to South America and South-east Asia, the most likely diagnosis is neurocysticercosis with multiple cysts in the vesicular and colloidal stage.",
+  "management_and_clinical_course": "Recommended treatment included antiparasitic treatment, corticosteroids, and antiepileptic drugs. Patient was treated with albendazole 400mg bd for 10 days and started on antiepileptic drugs. She declined treatment with steroids. She remained seizure-free for 1 year at her 1-year follow-up. MRI of the brain showed regression of all cysts. Antiepileptic treatment was stopped after a seizure-free period of 3 years.",
+  "final_diagnosis": "Neurocysticercosis.",
+  "disease_name_short": "Neurocysticercosis",
+  "images": [
+    "page2_img1.jpeg"
+  ]
+}

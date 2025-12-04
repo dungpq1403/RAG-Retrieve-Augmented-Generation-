@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 36-year-old male, restaurant owner, European traveller.",
+  "chief_complaint": "Mobile itchy mass under his skin.",
+  "history_of_present_illness": "Three weeks prior to presentation, he noted a mobile itchy mass in his groin for 4 days which then subsided. Subsequently, an itchy, serpiginous rash tracked from his groin to his chest, moving over several days before disappearing. The mass then reappeared on his right shoulder. There was no history of fever or systemic illness.",
+  "exposure_and_epidemiology": "Five weeks prior, he returned from a fishing holiday with four friends to the Okavango Delta in Botswana. He took malaria chemoprophylaxis, slept on the boat under a mosquito net, and swam in fresh river water. He admitted to eating freshwater fish from the river and made sushi from it. He denies sexual contact on the trip. Two of his four travel companions also reported the same complaint.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Organ system examination was normal. A firm mass with clear margins, 3x8cm in size, was observed on his right upper deltoid. This mass had recently migrated across his upper chest wall, and a serpiginous tract was visible. No additional rash or lymphadenopathy was present.",
+  "labs_and_diagnostics": "Total white cell count: 8.9 x 10^9/L (reference range: 4–10). Eosinophil count: 0.9 x 10^9/L (reference range: <0.5), indicating eosinophilia. Liver function tests, creatinine, and electrolytes were normal. HIV antibodies were negative. Serology for Gnathostoma was negative. A larva expressed from the nostril was identified as Gnathostoma spinigerum.",
+  "differential_diagnosis": "Gnathostomiasis (likely diagnosis), Loa loa infection, Sparganosis, Larvae of animal hookworms, Strongyloides stercoralis, Ectopic fascioliasis, Migratory myiasis.",
+  "management_and_clinical_course": "A clinical diagnosis of cutaneous gnathostomiasis was made. The patient was started on albendazole 400mg bid for 21 days and ivermectin 200 μg/kg stat. Over the next 6 days of treatment, the serpiginous lesion migrated over his shoulder and neck, disappeared for 24 hours, then reappeared between his eyebrows, moved to his forehead and face, and was subsequently felt inside his nose. On the sixth day of treatment, he expressed a larva from his nostril. His two friends were also treated similarly with full resolution of symptoms.",
+  "final_diagnosis": "Cutaneous Gnathostomiasis (confirmed by identification of Gnathostoma spinigerum larva).",
+  "disease_name_short": "Gnathostomiasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

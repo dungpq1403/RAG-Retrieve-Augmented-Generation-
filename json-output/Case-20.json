@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 43-year-old German male traveller.",
+  "chief_complaint": "Recurrent fever for the past 3 days (temperature as high as 39.8°C / 103.6°F), headache, and diarrhoea.",
+  "history_of_present_illness": "Presented on 21 May with recurrent fever for 3 days. The day before presentation, his temperature reached 39.8°C (103.6°F). Also reported headache and diarrhoea. He had self-treated for presumed malaria with atovaquone/proguanil from 27 April to 29 April due to fever. Past medical history is unremarkable.",
+  "exposure_and_epidemiology": "Travelled to Mozambique from 16 April to 30 April, and then to Chile from 30 April to 17 May. Did not take any malaria chemoprophylaxis in Mozambique. Reported freshwater contact in a small lake near Maputo.",
+  "vitals": "Febrile, with a temperature of 39.2°C (102.6°F) on presentation.",
+  "physical_exam": "General physical examination was normal. No rash, no hepatomegaly, no splenomegaly, and no lymphadenopathy.",
+  "labs_and_diagnostics": "WBC: 9.0 (normal). Eosinophils: 2.1 (high, reference <0.5). LDH: 422 (high, reference 135–225). Creatinine: 88.4 (normal, reference 53–106). AST/GOT: 106 (high, reference 10–50). ALT/GPT: 179 (high, reference 10–50). GGT: 186 (high, reference <65). C-reactive protein: 57.9 (high, reference <5). Electrocardiogram was normal. Chest radiography revealed nodular lesions (2-5mm) in the periphery of the lower lung zones bilaterally, confirmed by CT scan of the chest. Thick films for Plasmodium species were negative. Microscopy of stool and urine samples for Schistosoma eggs were three times negative. Initial antischistosomal antibodies (EIA and IFA) were negative. Four weeks later, antischistosomal antibodies were detectable (IFA 1:1280, cercarial- and egg-ELISA positive). S. mansoni ova were found in the stool.",
+  "differential_diagnosis": "Malaria, typhoid fever, amoebic liver abscess, viral hepatitis (including hepatitis E), EBV infection, CMV infection, leptospirosis, rickettsioses, Q-fever, brucellosis, secondary syphilis, relapsing fever, helminth infection, acute schistosomiasis (Katayama syndrome), acute fascioliasis.",
+  "management_and_clinical_course": "Patient was treated with praziquantel after diagnosis was established.",
+  "final_diagnosis": "Acute Schistosomiasis (Katayama Syndrome) due to Schistosoma mansoni infection.",
+  "disease_name_short": "Acute Schistosomiasis (Katayama Syndrome)",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

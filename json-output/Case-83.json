@@ -1,0 +1,16 @@
+{
+  "patient_information": "An 18-year-old man, right-handed.",
+  "chief_complaint": "A pale patch on his right arm and forearm, with reduced sensation.",
+  "history_of_present_illness": "The pale patch has been present for 3 months. It is not itchy or painful. He reports reduced sensation in the affected area and mild numbness of the little finger of the right hand, but no weakness. He is otherwise well. There is no family history of skin problems.",
+  "exposure_and_epidemiology": "From India, a leprosy-endemic country.",
+  "vitals": "Not mentioned",
+  "physical_exam": "A 20 cm by 10 cm hypopigmented macule on the outer aspect of the right arm extending onto the forearm. The affected skin is dry. Sensation within the hypopigmented area is reduced compared with the normally pigmented skin. The rest of the skin examination is normal. Both ulnar nerves are palpable, however the right ulnar nerve is thickened. There is reduced sensation on the tip and ulnar border of the right little finger. There are no other neurological abnormalities.",
+  "labs_and_diagnostics": "No additional investigations were strictly required due to the presence of two clinical cardinal signs (a hypopigmented skin lesion with reduced sensation and a thickened nerve). However, a skin biopsy and slit-skin smears were mentioned as potential investigations. A skin biopsy would likely show granulomatous dermatitis with destruction of cutaneous nerves, and a slit-skin smear would likely be negative.",
+  "differential_diagnosis": "Common skin conditions causing hypopigmentation including pityriasis alba, pityriasis versicolor, seborrheic dermatitis, and vitiligo (which causes depigmentation).",
+  "management_and_clinical_course": "The patient was diagnosed with paucibacillary leprosy. He was commenced on rifampicin and dapsone for 6 months. The sensory neuropathy was treated with oral prednisolone 30 mg daily, which was reduced by 5 mg each month. He was counselled extensively about the cause of leprosy and that he was not an infection risk to his family or friends (who were examined and had no signs of leprosy). He was advised how to care for his hands and avoid trauma. He made a full recovery.",
+  "final_diagnosis": "Paucibacillary leprosy.",
+  "disease_name_short": "Leprosy",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

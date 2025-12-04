@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 56-year-old male from Peru.",
+  "chief_complaint": "2-week history of fever, jaundice and confusion.",
+  "history_of_present_illness": "Daily fever started 3 months after leaving a rural area in the highlands of northern Peru (altitude of 2400m), where the patient spent 3 weeks on vacation. In the second week of illness, the patient noticed dark urine and jaundice, and a few days before admission his wife noticed confusion and somnolence. Past medical history is unremarkable.",
+  "exposure_and_epidemiology": "Spent 3 weeks on vacation in a rural area in the highlands of northern Peru (altitude of 2400m). While in the rural area, the patient and his wife were bitten at night by tiny mosquitoes; no personal protection was used. No animal contact.",
+  "vitals": "Blood pressure 90/60mmHg, pulse 110bpm and regular, temperature 39.2°C (102.6°F), respiratory rate 22 breaths per minute.",
+  "physical_exam": "Patient appears confused and disorientated (GCS 14/15) without any focal neurological findings or meningeal signs. Skin and conjunctivae are markedly pale and there is scleral jaundice. Cardiovascular and pulmonary examination are normal. The liver is slightly enlarged but there is no splenomegaly.",
+  "labs_and_diagnostics": "Creatinine, electrolytes, and alkaline phosphatase are normal. Coomb’s test is negative. CSF results are normal. CT scan of the brain is normal. Abdominal ultrasound reveals hepatomegaly, but no focal lesions.\nBlood results on admission:\nWBC: 14.9 x 10^9/L (Reference: 4–10)\nNeutrophils: 13.1 x 10^9/L (Reference: 1.8–7.2)\nLymphocytes: 0.9 x 10^9/L (Reference: 1.5–4)\nBand forms: 4% (Reference: 0–5)\nHaemoglobin: 6 g/dL (Reference: 13–15)\nReticulocytes: 8% (Reference: 0.5–1.5)\nPlatelets: 454 x 10^9/L (Reference: 150–350)\nLDH: 1500 U/L (Reference: <250)\nTotal bilirubin: 239 μmol/L (Reference: <19)\nDirect bilirubin: 103 μmol/L (Reference: <5)\nBlood films were negative for malaria. Thin film revealed massive red blood cell infestation by pleomorphic cocco-bacillary structures compatible with B. bacilliformis. Blood cultures were negative, including cultures in special media for Bartonella.",
+  "differential_diagnosis": "Malaria, bartonellosis, rickettsial diseases (endemic and epidemic typhus), leptospirosis, typhoid fever, brucellosis, viral diseases (viral hepatitis, yellow fever), non-infectious causes of haemolysis.",
+  "management_and_clinical_course": "The patient progressed to shock and was transferred to the intensive care unit (ICU), requiring treatment with vasopressors. He was started on a combination of intravenous ciprofloxacin and ceftriaxone for 10 days. Altered mental status resolved after 3 days of antimicrobial treatment, and fever subsided after 5 days. By day 4, the bacteria had disappeared from the blood smears. No further complications were observed during a 3-month follow-up period.",
+  "final_diagnosis": "Bartonellosis (Oroya Fever) caused by Bartonella bacilliformis.",
+  "disease_name_short": "Bartonellosis (Oroya Fever)",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

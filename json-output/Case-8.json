@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 26-year-old German female student.",
+  "chief_complaint": "Localized swelling (boil) on her left leg.",
+  "history_of_present_illness": "The swelling developed slowly over the past 3 weeks. It is itchy, but not painful. There is no history of fever or arthropod bites. The patient is otherwise fine.",
+  "exposure_and_epidemiology": "Recently returned from a 6-week trip to Ghana.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Localized swelling on the left leg, about 1.5cm in diameter. The skin surrounding the swelling is slightly hyperaemic. The boil is covered by a blackish scab. There is no lymphadenopathy. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "The scab was removed. Using a magnifying glass, a whitish, pulsating matter oozing transparent fluid was detected underneath, identified as the respiratory spiracles of a larva, typical of myiasis. A maggot of a Tumbu fly was subsequently removed.",
+  "differential_diagnosis": "Rickettsial disease, cutaneous anthrax, spider bites, localized bacterial skin and soft-tissue infections (folliculitides, furuncles, carbuncles, abscesses), fungal skin infections, and myiasis (considered the most likely).",
+  "management_and_clinical_course": "The scab was gently removed. The lesion was covered with white petroleum jelly and bandaged. Two days later, the maggot of a Tumbu fly was easily removed with a pair of forceps. The remaining lesion looked clean and no further treatment was required.",
+  "final_diagnosis": "Cutaneous furuncular myiasis caused by Tumbu fly larvae (Cordylobia anthropophaga).",
+  "disease_name_short": "Myiasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 14-year-old boy from rural Tanzania, well nourished. He has three other siblings, one of whom is similarly affected. Parents are fine.",
+  "chief_complaint": "Difficulty in walking.",
+  "history_of_present_illness": "Illness started suddenly just over 2 years ago. He first noticed his legs feeling heavy and trembling, leading to difficulty walking and a tendency to fall. Since that day, he has been unable to stand or walk unaided. He now stands on his toes and drags his legs with the aid of a stick. He denies any history of fever, pain, sensory, bladder, or bowel symptoms, or disease progression.",
+  "exposure_and_epidemiology": "Lives in a village in northern Tanzania, a rural area where the main staple food crop is cassava. His diet for the 2 months before the illness was almost exclusively cassava. Identical cases had occurred in his own and neighboring villages at around the same time.",
+  "vitals": "Normal vital signs.",
+  "physical_exam": "General examination is unremarkable. Neurological examination: fully orientated, higher mental function normal. Cranial nerves normal, but bilateral optic pallor noted on fundoscopy. Limbs reveal signs of spastic paraparesis with flexion contractures at both ankles and knees. Power in the legs is graded 3 to 4 out of 5 (just overcoming gravity), with knee extensors and foot dorsiflexors involved to the greatest extent. There is bilateral hypertonia, hyperreflexia, and sustained ankle clonus with extensor plantar responses. Arms are normal apart from generalized hyperreflexia. No impairment or loss of sensation. A lumbar lordosis with thoracic kyphoscoliosis is noticeable only on standing.",
+  "labs_and_diagnostics": "Full blood count, erythrocyte sedimentation rate, blood glucose, creatinine, and urine analysis are all normal. Microscopy of urine and stool specimens does not show any ova of Schistosoma species. HIV serology and VDRL are negative. Lumbar puncture is normal. Radiographs of the chest and thoracolumbar spine are normal.",
+  "differential_diagnosis": "Spinal tuberculosis (Pott’s disease), transverse myelitis, spinal cord infections (such as schistosomiasis and tuberculous myelitis), spinal malignancy (mainly metastases), and tropical nutritional myeloneuropathies (konzo and lathyrism).",
+  "management_and_clinical_course": "There is no cure for konzo, resulting in permanent spastic paraparesis. Management is directed at support, symptomatic improvement, and disease prevention. Patients can walk with the aid of a stick or crutches, and some may benefit from a wheelchair. Muscle relaxants have a limited role due to ineffectiveness and high cost. Surgical treatment involving Achilles tendon lengthening operations has proved useful in selected patients. Due to the severity of his contractures, he should be assessed for surgery. At 6 and 12-month follow-up, findings were unchanged with permanent spastic paraparesis. He was not referred for surgery due to lack of resources and the extent of the epidemic. He uses one stick with very restricted mobility and works as a shoe repairer in his village.",
+  "final_diagnosis": "Konzo, a distinct form of tropical spastic paraparesis.",
+  "disease_name_short": "Konzo",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 31-year-old HIV-positive man residing in London, diagnosed with HIV 6 years ago. His CD4 count 1 month prior was 280/μL. He is not on ART or co-trimoxazole prophylaxis. He lives with his male partner, denies recreational drug use, and has never smoked. No other significant past medical history.",
+  "chief_complaint": "Increasing shortness of breath on exertion, dry cough, drenching night sweats, general fatigue, and a weight loss of 10kg.",
+  "history_of_present_illness": "The patient presented to the Emergency Department with a 6-week history of progressively worsening shortness of breath on exertion, dry cough, and drenching night sweats. He also reported general fatigue and a 10kg weight loss over the past 5 months.",
+  "exposure_and_epidemiology": "Extensive business travel in the past 6 months to Europe, China, Korea, Japan, Singapore, and the United States.",
+  "vitals": "Temperature 39.2°C (102.6°F), blood pressure 120/70mmHg, pulse 100bpm, respiratory rate 26 breaths per minute, sO2 87% on air (97% on 15L O2).",
+  "physical_exam": "Alert, short of breath at rest but able to complete full sentences. Chest clear on auscultation. The rest of the physical examination was unremarkable.",
+  "labs_and_diagnostics": "Arterial blood gases on air: pH 7.44, PaO2 7.6 kPa (reference 10.67–13.33), PaCO2 3 kPa (reference 4.67–6.00), HCO3 19 mmol/L (reference 22–26), Base excess -3.8 mmol/L (reference -2 to +2), Lactate 1.6 mmol/L (reference 0.5–1.6). FBC normal. CRP 6.7 mg/dL (reference <5). Creatinine, urea, bilirubin, ALT, AP, and albumin normal. CD4 150/μL. HIV viral load 1,500,000 copies/mL. Chest X-ray showed bilateral perihilar infiltrates. CT-pulmonary angiogram revealed extensive 'ground-glass' infiltrates in both lungs (especially lower lobes) but no pulmonary emboli or cavitations. Serum β-glucan >500 pg/mL (reference <80 pg/mL). Bronchoscopy was macroscopically normal. Grocott staining of BAL fluid revealed Pneumocystis jirovecii cystic forms. PCR of BAL fluid strongly positive for P. jirovecii DNA.",
+  "differential_diagnosis": "Pneumocystis pneumonia (PCP), Tuberculosis, atypical bacterial pneumonia, cryptococcosis, or histoplasmosis.",
+  "management_and_clinical_course": "Treated with high-flow oxygen, high-dose co-trimoxazole, and prednisolone combined with a proton-pump inhibitor. Tachycardia settled with hypoxia reversal. Discharged on oral co-trimoxazole for a 21-day course. Commenced ART (tenofovir, emtricitabine, efavirenz) 10 days into PCP treatment. Developed a widespread pruritic maculopapular rash after 2 weeks of PCP treatment, likely due to co-trimoxazole or efavirenz. Co-trimoxazole was changed to clindamycin and primaquine for the final week. Efavirenz was replaced by a boosted protease inhibitor. Started on dapsone and pyrimethamine for secondary prophylaxis after completing PCP treatment.",
+  "final_diagnosis": "Pneumocystis Pneumonia (PCP) caused by Pneumocystis jirovecii.",
+  "disease_name_short": "PCP",
+  "images": [
+    "page1_img1.jpeg",
+    "page3_img1.jpeg"
+  ]
+}

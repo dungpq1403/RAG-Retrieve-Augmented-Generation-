@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 34-year-old man from Phuket, Thailand.",
+  "chief_complaint": "2-week history of fever and a papular rash affecting his whole body, particularly his face and trunk.",
+  "history_of_present_illness": "A 34-year-old man from Phuket, Thailand presents to a hospital in Germany with a 2-week history of fever. He has also noticed a papular rash affecting his whole body, particularly his face and trunk. He reports weight loss (7kg in the last 3 months).",
+  "exposure_and_epidemiology": "He lives in Thailand and arrived in Germany 3 days previously to visit friends.",
+  "vitals": "Temperature of 38.2°C (100.76°F), Body Mass Index (BMI) of 14kg/m2.",
+  "physical_exam": "Febrile, pale conjunctivae, very wasted appearance, generalized non-pruritic rash predominantly on his face and trunk consisting of small umbilicated papules. Generalized lymphadenopathy with visibly swollen lymph nodes in the left supraclavicular, inguinal, and axillary regions. Spleen palpable at two fingers below the left costal margin. Liver span is 15cm in the midclavicular line.",
+  "labs_and_diagnostics": "Full blood count: WBC 2.1 x 10^9/L (reference range 4–10), haemoglobin 9.8g/dL (13–16), platelets 110 x 10^9/L (150–350). C-reactive protein 150mg/L (<5). HIV serology: Positive. CD4 cell count: 2/μL (normal range: 500–1000/μL). Blood cultures, fine needle aspirate of lymph node, and skin biopsy cultures all grew Talaromyces (Penicillium) marneffei. Histopathology of the lymph node biopsy showed multiple yeast-like structures; no acid-fast bacilli seen. Six months later, CD4 count was 102/μL and viral load was suppressed, but an infection with atypical mycobacteria was found.",
+  "differential_diagnosis": "Infectious diseases and neoplasms including HIV, CMV, EBV infection, Mollusca contagiosa, disseminated tuberculosis, atypical mycobacteria, melioidosis, Bartonella spp. (B. henselae, B. quintana) causing bacillary angiomatosis, fungal infections (cryptococcosis, histoplasmosis, talaromycosis), visceral leishmaniasis, lymphomas, and HHV-8-associated Castleman’s disease.",
+  "management_and_clinical_course": "The patient was started on a 2-week course of intravenous liposomal amphotericin B followed by oral itraconazole for talaromycosis. On 3-week follow-up he was afebrile and gaining weight. Antiretroviral therapy (ART) was initiated. Six months later, the patient presented with a recurrence of cervical lymphadenopathy. An infection with atypical mycobacteria was found and interpreted as an immune reconstitution inflammatory syndrome (IRIS) of the unmasking type, occurring after ART initiation.",
+  "final_diagnosis": "Talaromycosis (Penicilliosis) and underlying HIV infection. Subsequently, Immune Reconstitution Inflammatory Syndrome (IRIS) of the unmasking type due to atypical mycobacteria.",
+  "disease_name_short": "Talaromycosis and HIV Infection",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

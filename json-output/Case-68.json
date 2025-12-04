@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 31-year-old woman from Malawi. HIV positive 2 months earlier, previously hospitalized with cryptococcal meningitis and on maintenance fluconazole. Started antiretroviral treatment (stavudine, lamivudine, nevirapine) and co-trimoxazole prophylaxis 1 month prior to presentation. No known allergies.",
+  "chief_complaint": "Generalized mucocutaneous rash, productive cough with whitish sputum, sore throat, and dysuria.",
+  "history_of_present_illness": "Rash started 3 days prior on the trunk, then spread to extremities and mucosal membranes (lips, oral mucosa, conjunctivae, genital mucosa). Productive cough with whitish sputum started 1 day before the rash. Sore throat and dysuria for the past 2 days. Patient was found to be HIV positive 2 months earlier, treated for cryptococcal meningitis with high-dose oral fluconazole, then discharged on a maintenance dose. Antiretroviral treatment (stavudine, lamivudine, nevirapine) and co-trimoxazole prophylaxis were started 1 month previously.",
+  "exposure_and_epidemiology": "From Malawi (tropical setting). HIV positive. Commenced co-trimoxazole and antiretroviral therapy (stavudine, lamivudine, nevirapine) 1 month prior to symptom onset, which are commonly implicated drugs for Stevens-Johnson syndrome/toxic epidermal necrolysis.",
+  "vitals": "Temperature: 37.7°C (99.9°F), Blood Pressure: 120/68mmHg, Pulse: 90 bpm, Respiratory Rate: 24 breath cycles per minute.",
+  "physical_exam": "Generalized, non-itchy maculopapular rash involving the skin and mucous membranes but sparing the palms and soles. Bilateral conjunctivitis. Eyelids and lips covered with haemorrhagic crusts. Lips swollen, making opening mouth, talking, and eating difficult and painful. Chest is clear.",
+  "labs_and_diagnostics": "Blood cultures and a rapid malaria test were taken and both came back negative.",
+  "differential_diagnosis": "Stevens–Johnson syndrome (SJS)/toxic epidermal necrolysis (most likely diagnosis). Also considered bacterial or viral infection, or malaria in a tropical setting due to prodromal symptoms. Other potential differential diagnoses for SJS/TEN mentioned are staphylococcal scalded skin syndrome, toxic shock syndrome, exfoliative dermatitis, autoimmune bullous diseases, and acute paraneoplastic pemphigus.",
+  "management_and_clinical_course": "Antiretroviral drugs and co-trimoxazole were stopped on admission. Received IV fluids and a urinary catheter. Patient and family declined an NG tube. Given 0.9% normal saline as mouthwash and dexamethasone eye ointment. Fever and cough settled spontaneously. Discharged after 10 days in hospital. After lesions healed, started on a new antiretroviral combination therapy with nevirapine replaced by efavirenz. Co-trimoxazole was not replaced due to unavailability of alternatives. New drug combination was tolerated well with no further rash.",
+  "final_diagnosis": "Stevens–Johnson Syndrome (SJS)",
+  "disease_name_short": "SJS",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

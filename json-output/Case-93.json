@@ -1,0 +1,18 @@
+{
+  "patient_information": "35-year-old Male, Peruvian logger (logging supervisor), born in Lima, working in a remote jungle area near Pucallpa on the shores of the Ucayali River, Peru. Past medical history included hepatitis of unknown etiology 20 years prior.",
+  "chief_complaint": "Fever, Jaundice and Bleeding",
+  "history_of_present_illness": "Eight days prior to admission, he developed fever and retro-orbital headache. Two days into the illness, he was admitted to a local hospital in the jungle after developing jaundice, coffee-ground vomiting, gross haematuria, and increasing mental obtundation. During transfer to a referral hospital in Lima, he had a generalized seizure.",
+  "exposure_and_epidemiology": "Works as a logging supervisor in a remote jungle area near Pucallpa on the shores of the Ucayali River in Peru. Has not taken any malaria prophylaxis and has not received any vaccinations since early childhood.",
+  "vitals": "Temperature: 38.8°C (101.8°F), Blood pressure: 110/70 mmHg, Heart rate: 110 beats per minute, Respiratory rate: 24 breaths per minute.",
+  "physical_exam": "Agitated, unresponsive to verbal commands, intermittently stuporous. Marked flapping of hands, no focal neurological signs, no meningeal signs. Jaundiced. Spontaneous bleeding of oral mucosa, venipuncture, and IV sites. Multiple large ecchymoses on face, trunk, and all limbs. Crepitant rales in both lung bases. Normal heart sounds. Liver palpable 3 cm below the right costal margin. Spleen not palpable. No lymphadenopathy.",
+  "labs_and_diagnostics": "Haematocrit: 30% (Ref: 41–53), White cell count: 8700/μL (Ref: 4500–11000) (Bands: 4%, Neutrophils: 62%, Eosinophils: 0%, Basophils: 0%, Monocytes: 6%, Lymphocytes: 28%), Platelets: 110000/μL (Ref: 150000–450000), AST (GOT): 2890 U/L (Ref: 0–35), ALT (GPT): 2676 U/L (Ref: 0–35), AP: 496 U/L (Ref: 38–126), Total Bilirubin: 11.6 mg/dL (Ref: 0.3–1.2), Direct Bilirubin: 9.2 mg/dL (Ref: 0–0.4), Urea: 89 mg/dL (Ref: 17–49), Creatinine: 1.2 mg/dL (Ref: 0.6–1.2), Glucose: 80 mg/dL (Ref: 70–110), Serum Protein: 4.2 g/L (Ref: 5.5–8.0), Albumin: 2.8 g/L (Ref: 3.5–5.5), Prothrombin Time: 17 s (Ref: 11.1–13.1), INR: 2.6 (Ref: 0.9–1.3), aPTT: 80 s (Ref: 22.1–35.1), Fibrinogen: 250 mg/dL (Ref: 150–400), CK: 6200 U/L (Ref: 52–336). Urine: Proteins 3+, RBC: 50–60/f, WBC: 4–6/f. Malaria thick film: three times negative. Blood cultures: negative. Brucella serology: negative. Hepatitis B IgM anti-Hbc: negative. On day 3: Creatinine 6.5 mg/dL, Urea 120 mg/dL, AST 100 U/L, ALT 200 U/L. Chest x-ray: bilateral pulmonary infiltrates compatible with ARDS. IgM capture ELISA for yellow fever: highly positive at 1:10000. Anti-dengue IgM: negative. Direct viral isolation in culture (blood specimen): negative.",
+  "differential_diagnosis": "Severe malaria, viral hepatitis (A, B, C, D, and E), toxin-mediated hepatitis, Leptospirosis, Typhoid fever, Brucellosis, Severe dengue, Other viral haemorrhagic fevers (VHFs), Yellow fever.",
+  "management_and_clinical_course": "Received presumptive treatment for malaria, broad-spectrum antibiotics, and supportive care. Over the next 3 days, he developed increasing hepatic encephalopathy, renal failure, coma, and DIC with increasing spontaneous bleeding. Chest x-ray showed bilateral pulmonary infiltrates compatible with ARDS. Repeat laboratory results on day 3 showed deterioration of kidney function (creatinine 6.5 mg/dL, urea 120 mg/dL) and a sudden drop in liver transaminases (AST 100 U/L, ALT 200 U/L), likely indicating acute hepatic disintegration. The patient passed away 1 day later.",
+  "final_diagnosis": "Yellow Fever",
+  "disease_name_short": "Yellow Fever",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg",
+    "page3_img1.jpeg"
+  ]
+}

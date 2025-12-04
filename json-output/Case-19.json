@@ -1,0 +1,17 @@
+{
+  "patient_information": "40-year-old male from Togo.",
+  "chief_complaint": "Changes in both eyes, painless subcutaneous bumps, and intense itching of the skin.",
+  "history_of_present_illness": "The patient noticed changes in both eyes over the past 4 years, with no visual disturbances but concern due to similar changes leading to blindness in his village. He observed painless subcutaneous bumps developing over the past two decades. He also suffers from intense skin itching that causes sleep disturbances. He has always lived in a village in the savannah near a fast-flowing river, where small biting flies are common.",
+  "exposure_and_epidemiology": "Originates from Togo, specifically a village in the savannah near a fast-flowing river where small biting flies are common. He reports that adults in each family in his village have turned completely blind after their eyes showed similar features. Many adults in the village are blind.",
+  "vitals": "Not mentioned",
+  "physical_exam": "Corneal opacities in both eyes, with the left eye showing keratitis semilunaris (a form of band-shaped sclerosing keratopathy). The skin appears atrophic in some areas with thinning and loss of elasticity, and multiple scratch marks. Multiple firm, non-tender subcutaneous nodules measuring 1 to 3cm in diameter are palpable in various regions, especially over bony prominences like the ribs, iliac crest, femoral trochanters, and on the head.",
+  "labs_and_diagnostics": "Investigations recommended include skin snips (from the vicinity of a subcutaneous nodule) to detect microfilariae of Onchocerca volvulus, slit-lamp examination of the eyes to reveal microfilariae in the anterior chamber and cornea, and nodulectomy to find adult O. volvulus (not routinely done). Serological tests detecting IgG4 responses to O. volvulus antigen (OvAg) and recombinant Ov16 antigen are recommended by WHO. No specific results are mentioned for this patient, with the text stating diagnosis would most probably be made on clinical grounds alone in an endemic, resource-limited setting.",
+  "differential_diagnosis": "Onchocerciasis (river blindness) is the most likely. Differential diagnoses for subcutaneous nodules include lipomas and cysticercus of Taenia solium. For pruritic dermatitis, scabies, papular pruritic eruptions associated with HIV infection, Mansonella streptocerca, yaws, leprosy, mycotic infections, and eczema are considered.",
+  "management_and_clinical_course": "The patient was treated with ivermectin (150 μg/kg) STAT, which was repeated after 3 months and after 1 year. He also received doxycycline 100mg/d for 6 weeks.",
+  "final_diagnosis": "Onchocerciasis (river blindness).",
+  "disease_name_short": "Onchocerciasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg"
+  ]
+}

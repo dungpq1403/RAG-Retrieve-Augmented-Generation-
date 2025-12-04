@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 67-year-old German woman, expatriate, living in Cameroon for 4 years.",
+  "chief_complaint": "Palpitations.",
+  "history_of_present_illness": "Reports transient subcutaneous swellings for the past year. No history of fever or constitutional symptoms. Past medical history unremarkable. 24-hour ECG recording showed paroxysmal supraventricular extrasystoles. Echocardiography revealed a minimal pericardial effusion.",
+  "exposure_and_epidemiology": "Lived as an expatriate in Cameroon for 4 years.",
+  "vitals": "Normal, afebrile.",
+  "physical_exam": "No visible subcutaneous swellings. Heart sounds clear and regular, no murmurs. No pathological findings noted.",
+  "labs_and_diagnostics": "Full blood count showed eosinophilia (Eosinophils 14%, Absolute eosinophil count 0.868 x 10^9/L, reference <0.45). Chest radiograph was normal. Serology for filarial infections was positive. Day-blood samples revealed sheathed microfilariae with a tapered tail characteristic for Loa loa; microfilarial count was 1400/mL. Follow-up echocardiography and 24-hour ECG were normal after treatment, with resolved pericardial effusion.",
+  "differential_diagnosis": "Non-specific urticaria, Calabar swellings in loiasis, cysticercosis, larva currens (Strongyloides stercoralis infection), Mansonella perstans infection, acute schistosomiasis (Katayama syndrome), gnathostomiasis, sparganosis.",
+  "management_and_clinical_course": "Treated with albendazole followed by ivermectin. Therapy was well-tolerated. Absolute eosinophil count returned to normal, microfilarial count declined, palpitations settled, and no sequelae were observed.",
+  "final_diagnosis": "Loiasis caused by Loa loa.",
+  "disease_name_short": "Loiasis",
+  "images": [
+    "page2_img1.jpeg"
+  ]
+}

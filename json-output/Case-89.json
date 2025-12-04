@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 30-year-old woman, born in Santa Cruz, Bolivia, who arrived in Europe 4 months prior to presentation. She grew up in a rural area during her childhood but has lived in an urban environment for the past 20 years. She desired to become pregnant.",
+  "chief_complaint": "Progressive dyspnoea at moderate exertion (New York Heart Association grade II) and self-limiting palpitations.",
+  "history_of_present_illness": "The patient reported a 2-year history of progressive dyspnoea at moderate exertion (NYHA grade II) along with self-limiting palpitations. She had no other relevant medical history and was not taking any medication. She expressed a wish to become pregnant.",
+  "exposure_and_epidemiology": "Born in Santa Cruz, Bolivia (a highly endemic country for Chagas disease), and migrated to Europe 4 months prior to presentation. She grew up in a rural area during her childhood.",
+  "vitals": "Blood pressure: 110/65 mmHg. Pulse: regular at 40 bpm. SpO2: 99% on ambient air.",
+  "physical_exam": "On auscultation, cardiac sounds were clear with no murmurs. The chest was clear. There was no peripheral oedema and the jugular venous pressure was not raised.",
+  "labs_and_diagnostics": "Full blood count and basic blood chemistry tests were normal. ECG showed sinus bradycardia with right bundle branch block. Chest radiograph showed moderate cardiomegaly. Both serological tests for Chagas disease (detection of IgG antibodies against Trypanosoma cruzi using two different methods) came back positive. During initial benznidazole treatment, she developed mild eosinophilia. Complete cardiological evaluation revealed sinus dysfunction without symptomatic bradycardia or syncope. Echocardiography showed a hypertrophic left ventricle without obstruction.",
+  "differential_diagnosis": "For a recent migrant from Bolivia, pathologies to screen for include active and latent tuberculosis, HIV, hepatitis B, hepatitis C, strongyloidiasis, and Chagas disease.",
+  "management_and_clinical_course": "The patient was classified as having chagasic cardiomyopathy and, due to her intention to become pregnant, antitrypanosomal therapy was offered. She started treatment with benznidazole 5 mg/kg per day for 60 days. Fifteen days into treatment, she developed a pruritic maculopapular rash and mild eosinophilia, leading to discontinuation of benznidazole. She received corticosteroids and antihistamines for 5 days, which resolved the rash. Re-introduction of benznidazole was tolerated well, and she completed the entire 60-day course. Five years post-treatment, her cardiac function was stable, and she gave birth to a healthy child.",
+  "final_diagnosis": "Chagasic cardiomyopathy (confirmed Chagas disease).",
+  "disease_name_short": "Chagas disease",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

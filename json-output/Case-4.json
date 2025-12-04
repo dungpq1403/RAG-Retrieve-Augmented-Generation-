@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 4-year-old girl, previously healthy, from rural eastern Uganda.",
+  "chief_complaint": "Coma, unresponsiveness",
+  "history_of_present_illness": "The patient was well until yesterday. She developed a bad headache in the early afternoon, followed by shaking chills in the evening. The family believed it was malaria and planned to take her to the health centre in the morning. She slept restlessly. At 5 a.m. today, the family found her in the midst of a seizure lasting about ten minutes. It took 4 hours for the family to reach the A&E department, and the child has not awoken since the seizure. There was no recent head trauma or other known reason for her illness.",
+  "exposure_and_epidemiology": "It is the rainy season in rural eastern Uganda, an area of high malaria transmission. Malaria is a common problem in their village.",
+  "vitals": "Temperature: 38.7°C (101.7°F), Pulse: 150 bpm, Respiratory rate: 36 breath cycles per minute, Blood pressure: 98/40mmHg.",
+  "physical_exam": "No neck stiffness or jaundice. Capillary refill is normal. Nasal flaring with respirations. Blantyre Coma Scale: 1/5. Pupils are 2mm and reactive, and extraocular movements are normal by oculocephalic manoeuvres. No papilloedema on direct ophthalmoscopy. With stimulation, there is decerebrate posturing that resolves spontaneously. Cardiac examination reveals a gallop rhythm. Liver is palpable 2cm below the right costal margin, and spleen is 4cm below the left costal margin. Rapid test for glucose is normal.",
+  "labs_and_diagnostics": "Haematocrit: 17.6% (Reference: < 30%). Platelet count: 28 x 10^9/L (Reference: 150–450 x 10^9/L). Malaria RDT: Positive (Reference: Negative). Lumbar puncture: CSF clear and acellular, opening pressure normal. Blood cultures taken. Ophthalmoscopy revealed white-centred haemorrhages in both eyes. EEG showed diffuse slowing but no epileptiform activity.",
+  "differential_diagnosis": "Cerebral malaria, acute bacterial meningitis, viral encephalitis, intoxication (particularly organophosphates), metabolic abnormalities (hypoglycaemia, renal or hepatic failure), non-convulsive status epilepticus.",
+  "management_and_clinical_course": "A lumbar puncture was performed with normal findings. Blood cultures were taken. Ophthalmoscopy revealed white-centred haemorrhages. The patient was administered artesunate 2.4mg/kg IV in A&E and admitted to the high-dependency unit for frequent monitoring. Artesunate was repeated at 12 and 24 hours, then once daily. An EEG showed diffuse slowing but no epileptiform activity. Twelve hours post-admission, the child had a short (1 minute) generalized seizure that spontaneously resolved and did not recur. Forty hours after admission, her Blantyre Coma Score improved to 4/5. The child was discharged home on hospital day five with a neurology clinic follow-up scheduled after 4 weeks.",
+  "final_diagnosis": "Retinopathy-positive cerebral malaria",
+  "disease_name_short": "Cerebral Malaria",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "26-year-old Malawian woman; lives in an urban high-density area; businesswoman selling vegetables; 3 healthy children, 4 other children died as toddlers; husband died a year ago of ‘high fever’; past medical history unremarkable; HIV reactive.",
+  "chief_complaint": "Headache, confusion, unilateral ptosis (left eyelid drooping).",
+  "history_of_present_illness": "Unwell for at least 1 week with insidious onset headache; confused for 2 days; left eyelid drooping noticed 1 day before presentation by relatives. Brought to emergency department by relatives.",
+  "exposure_and_epidemiology": "From Malawi; lives in an urban high-density area; husband died a year ago of ‘high fever’ (possible exposure to tuberculosis).",
+  "vitals": "GCS 14/15; Temperature 38.4°C (101.1°F); BP 115/75mmHg; HR 86bpm; RR 18 breath cycles per minute.",
+  "physical_exam": "Seriously unwell appearance; no neck stiffness; chest clear; complete ptosis on the left eye; left eye in a ‘down and out’ position on primary gaze (left third nerve palsy); remainder of neurological examination normal.",
+  "labs_and_diagnostics": "Blood: WBC 3.2 x 10^9/L (low), Hb 10.2 g/dL (low), Platelets 155 x 10^9/L (normal), Serum glucose 4.0 mmol/L (normal), Thick film for malaria and trypanosomes negative. Lumbar Puncture: Opening pressure 32 cmH2O (markedly raised). CSF: White cell count 54/μL (high), Protein 3.0 g/L (high), Glucose 1.3 mmol/L (low). HIV serology: reactive. India Ink stain: negative. Cryptococcal culture: negative. Bacterial culture: negative. Acid-fast bacilli detected in CSF. MRI brain: bilateral basal ganglia infarctions.",
+  "differential_diagnosis": "Infectious meningitis (bacterial, tuberculous, cryptococcal); infectious encephalitis; cerebral malaria.",
+  "management_and_clinical_course": "Patient started on empirical treatment for suspected CNS infection: ceftriaxone 2g BID, fluconazole 1200mg OD (local protocol for cryptococcal meningitis in absence of amphotericin B and flucytosine), and treatment for presumptive TB-meningitis. Slipped into a coma a few days into treatment. Died in the hospital.",
+  "final_diagnosis": "Tuberculous meningitis.",
+  "disease_name_short": "Tuberculous Meningitis",
+  "images": [
+    "page1_img1.jpeg",
+    "page3_img1.jpeg"
+  ]
+}

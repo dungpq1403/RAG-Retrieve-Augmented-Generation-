@@ -1,0 +1,14 @@
+{
+  "patient_information": "32-year-old, previously fit woman of African descent, born in Europe.",
+  "chief_complaint": "Jaundice and confusion.",
+  "history_of_present_illness": "18 days after returning to Europe from a trip to rural Jos, Nigeria, she developed a fever. Three days later, she became very unwell with abnormal behaviour.",
+  "exposure_and_epidemiology": "Travelled to rural Jos in Nigeria to visit relatives. Returned to Europe 18 days prior to symptom onset. Recent rural exposure in an area known to have viral haemorrhagic fever (Lassa).",
+  "vitals": "Temperature: 37.5°C (99.5°F), Glasgow Coma Scale: 14/15.",
+  "physical_exam": "Mildly jaundiced, confused. No rash or palpable lymph nodes. Throat and sclerae are not injected. Some fine crepitations at the lung bases.",
+  "labs_and_diagnostics": "Initial refusal of laboratory tests due to recent rural exposure in an area known to have viral haemorrhagic fever (Lassa). Later, Plasmodium falciparum parasite count: 18%. Plasma creatinine: 430 μmol/L (reference range 45–90 μmol/L), demonstrating acute kidney injury. Pre-renal failure ruled out after fluid challenges. Chest radiography findings suggestive of ARDS.",
+  "differential_diagnosis": "Severe falciparum malaria, acute viral hepatitis, typhoid fever, leptospirosis, ascending cholangitis, advanced HIV disease with Gram-negative sepsis, Viral Haemorrhagic Fever (VHF).",
+  "management_and_clinical_course": "Treated with intravenous artesunate, which reduced the parasite count to 5%. Lapsed into deep coma. Developed renal function deterioration requiring haemofiltration. After parasites cleared on day 5, consciousness level began to improve. Developed laboured breathing and ARDS, requiring prolonged respiratory support. Eventually made a full recovery.",
+  "final_diagnosis": "Severe Plasmodium falciparum malaria with acute kidney injury and ARDS.",
+  "disease_name_short": "Malaria",
+  "images": []
+}

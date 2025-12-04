@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 42-year-old German man, with an unremarkable past medical history.",
+  "chief_complaint": "Fever up to 40°C (104°F), arthralgias, retro-orbital pain, and thrombocytopenia for the past 6 days.",
+  "history_of_present_illness": "For 6 days, the patient experienced fever (up to 40°C/104°F), arthralgias, and retro-orbital pain. He returned to Germany the day before presentation, after a 10-week trip to Thailand.",
+  "exposure_and_epidemiology": "Returned from a 10-week trip to Thailand, having spent 2 months on Little Koh Chang (Andaman Sea), 5 days in Hua Hin (Gulf of Thailand), and 5 days in Bangkok. He did not take any antimalarial chemoprophylaxis.",
+  "vitals": "Temperature: 39.1°C (102.4°F), BP: 156/80 mmHg, Pulse: 106 beats per minute, Respiratory rate: 16 breath cycles per minute, SpO2: 95% on ambient air.",
+  "physical_exam": "GCS: 15/15. No skin rash or lymphadenopathy. Chest clear on auscultation. Abdominal examination showed no intercostal tenderness, no tenderness on palpation, and no organomegaly.",
+  "labs_and_diagnostics": "FBC: Thrombocytopenia of 81 x 10^9/L (reference: 150–300), otherwise normal. CRP: 55 mg/L (reference: <5). AST: 62 U/L (reference: 10–50 U/L). ALT: 106 U/L (reference: 10–50). Dengue NS1 antigen test: Negative. Rapid diagnostic test for malaria (detects Plasmodium falciparum-specific histidine-rich protein II and panmalarial aldolase): Negative. Later, thick blood film showed Plasmodium species trophozoites at a density of 920/μL. Thin film microscopy by a head parasitologist identified morphological characteristics compatible with Plasmodium malariae or P. knowlesi. Species-specific PCR confirmed mono-infection with P. knowlesi.",
+  "differential_diagnosis": "Dengue fever, Chikungunya, Zika, Influenza, Acute HIV infection, Enteric fever (Typhoid/Paratyphoid), Malaria.",
+  "management_and_clinical_course": "A thick blood film initially showed Plasmodium species trophozoites, but the species could not be determined. Non-falciparum malaria was suspected due to the negative RDT. The patient was admitted to the infectious diseases ward. Treatment was initiated with atovaquone/proguanil 250/100mg, 4 tablets once daily for 3 days. The patient rapidly recovered and was discharged on the fourth day. Further microscopy by a head parasitologist suggested P. malariae or P. knowlesi, which was definitively confirmed as Plasmodium knowlesi by species-specific PCR.",
+  "final_diagnosis": "Plasmodium knowlesi malaria (mono-infection).",
+  "disease_name_short": "Knowlesi Malaria",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

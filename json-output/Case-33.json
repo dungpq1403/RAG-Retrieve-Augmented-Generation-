@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 53-year-old Malawian man, subsistence farmer, non-smoker, married with five children (all well). Past medical history is unremarkable. Not aware of any tuberculosis (TB) contacts. Currently not on any medication.",
+  "chief_complaint": "Productive cough and whitish sputum for 3 months, night sweats, and some unquantified weight loss.",
+  "history_of_present_illness": "He presented with a productive cough and whitish sputum for 3 months, accompanied by night sweats and unquantified weight loss. Two months prior, he had similar complaints and was given presumptive antimalarials and amoxicillin for 5 days, without improvement.",
+  "exposure_and_epidemiology": "From Malawi. Not aware of any TB contacts. He is a subsistence farmer and has never worked in a mine or construction industry. He is a non-smoker.",
+  "vitals": "Temperature 38.8°C (101.8°F), blood pressure 100/80mmHg, pulse 88bpm, oxygen saturation 97% on ambient air.",
+  "physical_exam": "Slightly wasted, mildly anaemic. No oral thrush, Kaposi’s sarcoma, or oral hairy leukoplakia in the mouth. Chest is clear with normal heart sounds without murmurs. No lymphadenopathy; liver and spleen are not enlarged.",
+  "labs_and_diagnostics": "HIV-test is reactive. Laboratory results: WBC 3.2 x 10^9/L (ref 4–10), Haemoglobin 9.8 g/dL (ref 13–15), MCV 90 fL (ref 80–98), Platelets 305 x 10^9/L (ref 150–350), CD4 count 54 cells/μL (ref 500–1200). Sputum for AFB: 2 negative. Malaria RDT: Negative. Thick smear for Plasmodium spp.: Negative. Chest radiograph on admission shows a prominent hilar region bilaterally but is otherwise normal. Induced sputum results came back negative for AFB, no sputum PCR available. Exercise test showed oxygen saturation of 98% (97% at rest) and was negative.",
+  "differential_diagnosis": "Smear-negative pulmonary TB (most likely), Pneumocystis jirovecii pneumonia (PCP), concomitant bacterial chest infection, Kaposi’s sarcoma (KS) of the lung, pulmonary malignancy, pulmonary sarcoidosis, Gram-negative sepsis secondary to invasive non-typhoidal Salmonellae (iNTS).",
+  "management_and_clinical_course": "Two months prior, he received presumptive antimalarials and amoxicillin for 5 days without improvement. Upon current admission, the patient was treated for a possible bacterial chest infection with ceftriaxone 2g IV od and erythromycin 500mg qid for 5 days. It was decided not to treat him for PCP, but he received a prophylactic dose of co-trimoxazole (480mg bid). His fever persisted, though cough subjectively improved slightly. On day 7, he was started on empirical treatment for smear-negative TB with four antituberculous drugs (Isoniazid (H), Rifampicin (R), Pyrazinamide (P), and Ethambutol (E)). After the first week of antituberculous treatment, he started to feel better.",
+  "final_diagnosis": "Smear-negative pulmonary TB",
+  "disease_name_short": "Smear-negative pulmonary TB",
+  "images": [
+    "page1_img1.jpeg",
+    "page3_img1.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 62-year-old male Thai police sergeant major from Kalasin Province, northeast Thailand.",
+  "chief_complaint": "Incidental solitary liver mass found during an annual physical check-up via abdominal ultrasonography. Patient denies any clinical symptoms, weight loss, jaundice, or other gastrointestinal symptoms.",
+  "history_of_present_illness": "A 62-year-old male from Kalasin Province, Thailand, presented for an annual physical check-up where an abdominal ultrasound revealed a solitary liver mass. He denied any associated symptoms. He was referred for further investigation and treatment. He has a past history of liver fluke infection and praziquantel treatment within the last 10 years at a local primary care unit.",
+  "exposure_and_epidemiology": "From Kalasin Province in northeast Thailand, an area where eating raw or undercooked freshwater fish (which frequently contains metacercariae of the liver fluke, Opisthorchis viverrini) is common. Traditional food containing undercooked freshwater fish is usually eaten among villagers. Patient also has a history of liver fluke infection and praziquantel treatment in the past 10 years.",
+  "vitals": "Normal.",
+  "physical_exam": "Appears in good health. No jaundice. Liver and spleen not palpable. No liver stigmata or lymphadenopathy detected.",
+  "labs_and_diagnostics": "Laboratory: AST 26 U/L, ALT 32 U/L, ALP 84 U/L, Total bilirubin 0.6 mg/dL, Direct bilirubin 0.2 mg/dL. HBsAg Negative, Anti-HBs 24.13 IU/L, HBeAg Negative, Anti-HBc Positive, Anti-HCV Negative (suggesting previous Hepatitis B infection). AFP 2.8 U/mL. CEA 18.96 μg/L (elevated). CA19-9 342.80 U/mL (markedly elevated).\nImaging (Abdominal MRI): Single solid liver mass in the right liver lobe (segments VI/VII), with no marked bile duct dilatation.\nSurgical Findings: A large (9 x 9 cm) whitish-yellowish mass in the right liver lobe. Liver flukes were detected in the adjacent bile duct. Liver parenchyma appeared non-cirrhotic.\nHistology: Confirmed intrahepatic Cholangiocarcinoma (CCA). Tumour showed infiltrative compact glandular structures, lined by dysplastic columnar cells with necrosis.",
+  "differential_diagnosis": "Hepatocellular carcinoma, cholangiocarcinoma (CCA), metastatic tumour, and infections including tuberculosis. CCA was considered the most likely diagnosis given high serum CA19-9 and absence of chronic viral hepatitis signs, with metastatic cancer also requiring consideration.",
+  "management_and_clinical_course": "Underwent hemihepatectomy. Started on postoperative chemotherapy.",
+  "final_diagnosis": "Intrahepatic Cholangiocarcinoma (CCA) with concomitant Opisthorchis viverrini liver flukes detected in the adjacent bile duct.",
+  "disease_name_short": "Cholangiocarcinoma (CCA)",
+  "images": [
+    "page2_img1.jpeg",
+    "page2_img2.jpeg"
+  ]
+}

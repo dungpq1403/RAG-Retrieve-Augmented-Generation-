@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 35-year-old Malawian woman. She is known to be HIV-positive and has been on antiretroviral treatment for the past 3 years. The CD4 count is unknown.",
+  "chief_complaint": "Painful ocular tumour of the left eye, referred for exenteration.",
+  "history_of_present_illness": "Symptoms started 8 months prior with a whitish lesion growing on the conjunctiva of her left eye. She was prescribed non-specified eye drops, but the lesion grew bigger and turned reddish. Herbal eye drops from a traditional healer also did not help. The lesion grew constantly bigger, she lost eyesight in the affected eye, and pain increased, leading her to present at her local district hospital.",
+  "exposure_and_epidemiology": "From Malawi. HIV-positive. OSSN are commonly seen in HIV-positive individuals in sub-Saharan Africa. HIV infection, ultraviolet radiation (UV) and human papilloma virus (HPV) are strongly associated with OSSN.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Localized swelling of the left eyeball and orbit, lid closure incomplete. Visual acuity on the right side is 6/6, whereas the left eye has no light perception. Her left preauricular lymph nodes are swollen. The rest of her physical examination is unremarkable.",
+  "labs_and_diagnostics": "The CD4 count is unknown. Recommended: Check HIV viral load, perform fundoscopy, Ultrasound biomicroscopy (UBM) for intraocular invasion, Toluidine blue 0.05% vital staining as a screening tool, surgical biopsy with histopathological examination. If HIV-unknown, perform HIV test.",
+  "differential_diagnosis": "Early stages may be confused with pterygium, amelanotic naevus, or a lipoma. Malignant lesions such as amelanotic melanomas, lymphomas or adenocarcinomas may look similar as well.",
+  "management_and_clinical_course": "Initially prescribed non-specified eye drops and herbal eye drops from a traditional healer, which were ineffective. Referred for exenteration of the left eye. Management plan included analgesic treatment with nonsteroidal antiinflammatory drugs, counselling for surgery (extended exenteration of the left eyeball and orbit), control of HIV infection with viral load check and possible ART switch, and careful examination of the right eye for OSSN or cytomegalovirus infection. Patient refused surgical intervention, only accepting conservative treatment. Her left orbit was covered with antibiotics and bandaged. Discharged when pain was controlled, with an offer to return. Asked to report to ART clinic for viral load control and possible ART switch.",
+  "final_diagnosis": "Advanced ocular surface squamous neoplasia (OSSN).",
+  "disease_name_short": "Ocular Surface Squamous Neoplasia (OSSN)",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

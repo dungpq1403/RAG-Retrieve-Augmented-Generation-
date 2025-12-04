@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 31-year-old Guatemalan man with no past medical history, born and lived in a rural area of Guatemala before immigrating to New York 5 years ago.",
+  "chief_complaint": "Acute weakness and numbness of the leg.",
+  "history_of_present_illness": "Symptoms of weakness and numbness of the leg resolved just before his arrival at the hospital. Two weeks previously, he also had two episodes of facial twitching that subsided without intervention after 10 seconds.",
+  "exposure_and_epidemiology": "Born and lived in a rural area of Guatemala. His family owned uncorralled pigs and his house did not have sanitation services in Guatemala.",
+  "vitals": "Normal vitals.",
+  "physical_exam": "Cranial nerves were intact. Motor and sensory examinations were normal. Deep tendon reflexes and gait were normal. The rest of the exam was unremarkable.",
+  "labs_and_diagnostics": "Cell blood count and serum chemistry were within normal limits. Head CT showed multiple calcifications in the brain parenchyma. Head MRI on T1 sequence revealed dilation of the suprasellar and Sylvian cistern, peripheral enhancement after gadolinium administration, fluid-filled septated cystic lesions surrounding the proximal middle cerebral arteries on T2 sequence, and an old lacunar infarct in the right frontal white matter proximal to an interhemispheric cyst. A CT angiography showed patent cerebral arteries. A serum immunoblot for cysticercosis was positive. The serum cysticercosis antigen was positive at the beginning of therapy. A spine MRI did not show evidence of spinal involvement. After 9 months of treatment, his serum antigen was negative and his lesions resolved on imaging.",
+  "differential_diagnosis": "Transitory ischemic attack (initial presentation/consideration).",
+  "management_and_clinical_course": "The patient was started on a high dose of prednisone followed by a taper, and dual therapy with albendazole and praziquantel. After 9 months of treatment, his serum antigen was negative and his lesions resolved on imaging. He has been followed closely with no recurrence.",
+  "final_diagnosis": "Subarachnoid neurocysticercosis.",
+  "disease_name_short": "Subarachnoid Neurocysticercosis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

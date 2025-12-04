@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 7-year-old girl from South Sudan, severely malnourished (Z-score <3), alert and pale.",
+  "chief_complaint": "4-week history of undulating fever.",
+  "history_of_present_illness": "The fever occurs mainly in the afternoon hours accompanied by chills and sometimes convulsions. Between the febrile episodes, she was initially fine and played normally. However, over time she developed progressive anorexia, dry cough, chest pain, joint and back pain. She had previously received some unspecified tablets at another clinic, which did not bring any improvement.",
+  "exposure_and_epidemiology": "From South Sudan, specifically an area where visceral leishmaniasis (VL) was known to be endemic. Her uncle had been treated for VL before. Her sister had recently been treated for TB.",
+  "vitals": "Temperature 39.6°C (103.3°F), pulse 96bpm, blood pressure 100/60mmHg.",
+  "physical_exam": "Alert and pale, but not jaundiced. Severely malnourished (Z-score <3). Her chest sounds clear; normal heart sounds; soft abdomen with a splenomegaly of 4cm below the left costal margin. Multiple enlarged lymph nodes of about 1cm in diameter were found in the cervical, axillary, inguinal and epitrochlear region. There were no skin lesions and no peripheral oedema.",
+  "labs_and_diagnostics": "Plasmodium falciparum rapid diagnostic test (RDT) and a blood film for malaria parasites were negative. Brucella species serology (IgG and IgM) was negative. Visceral leishmaniasis rK39-antibody RDT was negative. Laboratory results on admission: WBC 1.35 (Reference: 4–10), Haemoglobin 6.8 g/dL (Reference: 12–16), Platelets 98 (Reference: 150–300), indicating pancytopenia. The Direct Agglutination Test (DAT) for VL came back positive with a high titre (1:6.400).",
+  "differential_diagnosis": "Visceral leishmaniasis, brucellosis, tuberculosis, HIV infection, malaria (unlikely due to negative tests and chronic presentation), hyperreactive malarial splenomegaly syndrome (HMS - unlikely as no fever or lymphadenopathy), typhoid fever, splenic abscess, chronic schistosomiasis (Schistosoma mansoni infection - unlikely as no fever or lymphadenopathy), malignancies (leukaemia and lymphoma).",
+  "management_and_clinical_course": "The patient was admitted to the hospital due to her critical condition, severe malnutrition, and progressive anaemia. She was started on liposomal amphotericin B and a broad-spectrum antibiotic (ceftriaxone). The girl also received nutritional support with high-energy/high-protein ready-to-use therapeutic food (RUTF) and vitamin/mineral supplementation. After 5 days, the fever settled and the patient started to recover. Two weeks later, the girl had gained some weight and was again able to walk and play.",
+  "final_diagnosis": "Visceral Leishmaniasis.",
+  "disease_name_short": "Visceral Leishmaniasis (Kala-Azar)",
+  "images": [
+    "page2_img1.jpeg"
+  ]
+}

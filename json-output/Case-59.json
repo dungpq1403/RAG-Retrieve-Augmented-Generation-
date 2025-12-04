@@ -1,0 +1,18 @@
+{
+  "patient_information": "24-year-old Malawian businessman, male. Newly diagnosed HIV-positive (1 week prior to clinic visit), not on ART. CD4 count 134 cells/μL, HB 10.2 g/dL, MCV 88.4 fL. Wife is HIV-positive and not on ART. Has two children (6 and 4 years old) not yet tested for HIV.",
+  "chief_complaint": "Dark spots/lesions on arm, leg, and face (facial swelling), and breathlessness (shortness of breath).",
+  "history_of_present_illness": "Noticed dark spots on his arm and leg for the last month, progressing to facial swelling. Reports a 3-month history of cough and worsening shortness of breath. Cough is productive of white sputum. No constitutional symptoms of weight loss, fevers or night sweats. No history of previous tuberculosis. Tested positive for HIV a week before coming to clinic and has not yet started antiretroviral medication.",
+  "exposure_and_epidemiology": "From Malawi. Newly diagnosed HIV-positive. Kaposi's Sarcoma is an HIV-associated malignancy (HHV-8 related). Wife also HIV-positive.",
+  "vitals": "Temperature 36°C (96.8°F), respiratory rate 32 breath cycles per minute, pulse 102 bpm.",
+  "physical_exam": "Appears comfortable at rest with moderate facial oedema. Widespread dark-purplish plaques noted on the skin (chest, nose) and palate. Decreased air entry and dullness at the right lung base on respiratory examination. Swelling of his right leg from the foot to the knee, with prominent coalescing dark plaques. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "HIV positive (tested a week prior). CD4 count 134 cells/μL. Hemoglobin (HB) 10.2 g/dL. Mean Corpuscular Volume (MCV) 88.4 fL. Other parameters normal. Chest radiograph showed bilateral patchy opacifications in the lower and mid zones of the lungs (peribronchovascular changes). Sputum and GeneXpert tests were negative for tuberculosis. Bronchoscopy was attempted but failed because of technical difficulties.",
+  "differential_diagnosis": "Tuberculosis (TB) and Kaposi’s sarcoma (KS), with suspicion of pulmonary involvement for KS.",
+  "management_and_clinical_course": "Patient’s main concern was shortness of breath. He made no improvement with a short course of oral antibiotics. He was referred to start antiretroviral medication and palliative chemotherapy.",
+  "final_diagnosis": "Kaposi’s Sarcoma (cutaneous and pulmonary).",
+  "disease_name_short": "Kaposi’s Sarcoma",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

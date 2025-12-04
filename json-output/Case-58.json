@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 25-year-old woman from Bani Suwaif in Upper Egypt (115km south of Cairo).",
+  "chief_complaint": "Severe diarrhoea for 2 months, accompanied by weight loss of about 15kg and amenorrhoea.",
+  "history_of_present_illness": "Symptoms started with stomach rumbles and colicky abdominal pain, later developing anorexia and vomiting. The diarrhoea is voluminous, not related to meals, and occurs both day and night (five to ten times in 24 hours). She had received various antibiotics, including metronidazole, and antidiarrhoeal drugs without improvement. During the last month, she developed lower limb swelling and severe prostration.",
+  "exposure_and_epidemiology": "Patient is from Bani Suwaif, Upper Egypt, an area where Capillaria philippinensis cases have been reported and is considered endemic. Intestinal capillariasis is transmitted through consumption of raw or undercooked fish.",
+  "vitals": "Afebrile, heart rate 100bpm, blood pressure 100/60mmHg.",
+  "physical_exam": "Appears generally unwell, pale, angular stomatitis, scaphoid abdomen with borborygmi, pitting oedema of the lower limbs, and decreased skin turgor.",
+  "labs_and_diagnostics": "D-xylose test shows evidence of malabsorption. Stool microscopy detected numerous peanut-shaped helminth ova, typical of Capillaria philippinensis. Laboratory results on admission: Potassium 2.8 mmol/L (low), Sodium 127 mmol/L (low), Calcium 2.1 mmol/L (low), Albumin 23 g/L (low), Haemoglobin 10.8 g/dL (low), Eosinophil count 0.53 x 10^9/L (high), Creatinine 115 μmol/L (high). WBC 6.6 x 10^9/L (normal), Platelets 350 x 10^9/L (normal).",
+  "differential_diagnosis": "Not mentioned.",
+  "management_and_clinical_course": "Admitted to hospital. Albendazole was initiated at a dose of 400mg twice daily and continued for 3 weeks. Oral and parenteral fluids and electrolytes were given for resuscitation, along with a high protein diet and vitamins. During the first days of treatment, numerous adult helminths (length 3–5mm) were found in stool samples. The patient’s general condition improved significantly within the first week, vomiting stopped, and diarrhoea subsided after 2 weeks of treatment.",
+  "final_diagnosis": "Intestinal Capillariasis caused by Capillaria philippinensis.",
+  "disease_name_short": "Intestinal Capillariasis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

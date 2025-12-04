@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 16-year-old Malawian girl. She delivered a baby 5 months ago. An HIV test done in the antenatal clinic was negative. Her further past medical history is unremarkable. She went to primary school but recently dropped out during her pregnancy.",
+  "chief_complaint": "Fever, generalized abdominal pain, and frontal headache.",
+  "history_of_present_illness": "Symptoms (fever, generalized abdominal pain, and frontal headache) for the past 5 days.",
+  "exposure_and_epidemiology": "From Malawi. Lives with her parents, her three siblings, and her baby in an urban high-density area. There is no running water and no electricity in the house. The family fetch water from a community tap. Malawi is a country highly endemic for schistosomiasis.",
+  "vitals": "Temperature 38.1°C (100.6°F), blood pressure 110/60mmHg, pulse 78bpm, respiratory rate 20 breath cycles per minute, Glasgow Coma Scale 15/15.",
+  "physical_exam": "Fair nutritional state. Mild scleral jaundice. No neck stiffness. Abdomen shows diffuse tenderness but no guarding. Liver is not enlarged. Spleen is palpable at 2cm below the left costal margin. Chest is clear. No lymphadenopathy. Pelvic examination is unremarkable and there is no vaginal discharge.",
+  "labs_and_diagnostics": "Blood film for malaria parasites positive with 'low' parasitaemia. Liver function tests not available. WBC: 3.2 x 10^9/L (Reference 4–10). Haemoglobin: 10.9 mg/dL (Reference 12–14). MCV: 90 fL (Reference 80–99). Platelets: 164 x 10^9/L (Reference 150–400). Creatinine: 71 μmol/L (Reference <80). Repeat HIV test was negative. Blood cultures grew Salmonella Typhi. (Recommended but not explicitly stated if done: urinary dipstick, abdominal ultrasound).",
+  "differential_diagnosis": "Malaria, Gram-negative bacteraemia and sepsis, Enteric fever (typhoid or paratyphoid), invasive non-typhoidal salmonellae (iNTS).",
+  "management_and_clinical_course": "On admission, started on artemether/lumefantrine PO and a broad-spectrum antibiotic (ceftriaxone 2g IV od). Antibiotic therapy was switched to ciprofloxacin 500mg bid after blood culture results. On day 5 of antibiotic treatment, fever started to settle and patient felt better. Discharged on day 7. Ciprofloxacin continued for a total of 10 days. Also given one dose of praziquantel due to schistosomiasis endemicity and its potential link to chronic S. Typhi carriage and relapse.",
+  "final_diagnosis": "Typhoid fever (Salmonella Typhi). Malaria co-infection (low parasitemia).",
+  "disease_name_short": "Typhoid Fever",
+  "images": []
+}

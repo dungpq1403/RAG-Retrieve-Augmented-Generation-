@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 35-year-old male farmer from the Peruvian highlands.",
+  "chief_complaint": "A chronic ulcer and multiple painless nodular lesions on his left arm, with a 2-month history of slowly growing ulcer and multiple painless nodules.",
+  "history_of_present_illness": "Two months before presentation, the patient suffered a scratch on his left hand from a tree branch while working in the fields. After a few days, he noticed a small painless erythematous papule that later developed into a pustule. He took antibiotics without improvement. Over the following weeks, new pustules appeared, and the lesion started to ulcerate and increased in size, despite continued antibiotics and topical traditional medicines. Four weeks after the initial papule, the patient noticed painless firm nodules on his left forearm. He was seen at a regional hospital and treated empirically for cutaneous leishmaniasis with a 20-day course of pentavalent antimonials, but showed no improvement. He was then referred for further diagnosis and treatment. The patient was previously healthy and denied recent contact with animals or travel.",
+  "exposure_and_epidemiology": "Farmer from the Peruvian highlands, suffered a scratch on his left hand from a tree branch while working in the fields. Denied recent contact with animals or travel. No history of exposure to fresh and saltwater environments.",
+  "vitals": "Normal vital signs, afebrile.",
+  "physical_exam": "Patient appears generally well. On his left hand, there is a single ulcerative lesion (20x30mm) with irregular elevated borders and multiple subcutaneous erythematous nodules (10x10mm) along the lymphatic tract of the left arm. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "WBC is 4.5 x 10^9/L (reference range 4–10 x 10^9/L) with normal differential count. Haemoglobin is 11.3g/dL (12–16g/dL). The remainder of the full blood count is normal. Chest x-ray was normal. PPD skin testing was negative. No Leishmania parasites were observed by direct microscopy, and the leishmanin skin test was negative. Leishmania culture was not performed. Mycobacterial cultures were negative. Culture of the ulcer scraping and nodule aspiration were positive for S. schenckii.",
+  "differential_diagnosis": "Cutaneous leishmaniasis (unlikely due to lack of improvement after treatment), sporotrichosis, mycobacterial infection by Mycobacterium tuberculosis or M. marinum (unlikely for M. marinum due to no exposure history), nocardiosis (Nocardia brasiliensis, rare), and tularaemia (Francisella tularensis, never reported in the southern hemisphere).",
+  "management_and_clinical_course": "Patient was initially treated empirically for cutaneous leishmaniasis with a 20-day course of pentavalent antimonials without improvement. After diagnosis, the patient was started on itraconazole PO 200mg/day. After 8 months of treatment, the ulcer and nodular lesions had resolved, and the patient was considered cured. The mild anaemia was likely to be unrelated.",
+  "final_diagnosis": "Lymphocutaneous sporotrichosis.",
+  "disease_name_short": "Sporotrichosis",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "patient_information": "22-year-old female from Ashulia near Dhaka, Bangladesh.",
+  "chief_complaint": "Profuse watery diarrhea (12-15 large-volume stools in the past day) and unresponsiveness.",
+  "history_of_present_illness": "Patient experienced 12-15 large-volume, rice-watery stools with white flakes in the past day. Became unresponsive approximately one hour prior to hospital admission. No reported abdominal pain or fever.",
+  "exposure_and_epidemiology": "Recently attended a religious festival where water was supplied in large metal containers. Husband reported 5-6 other attendees also fell ill with diarrhea, suggesting a potential outbreak linked to contaminated water.",
+  "vitals": "Temperature: Afebrile. Pulse rate: 110 bpm (low volume). Blood pressure: 90/50 mmHg.",
+  "physical_exam": "General appearance: Thin young woman, stuporous (GCS 9/15), responds minimally to painful stimulus. Signs of dehydration: Sunken eyes, dry mouth, scaphoid abdomen, very slow skin pinch recoil. Systemic examination: Remainder normal.",
+  "labs_and_diagnostics": "Stool Examination: Macroscopic: liquid, rice-water appearance with no faecal matter. Microscopic: Small slender curved bacilli with darting motility, inhibited by V. cholerae O1 antiserum. Culture: Grows V. cholerae O1, Serotype Ogawa, biotype El Tor. Blood Labs: Sodium 143.8 mmol/L (normal), Potassium 3.0 mmol/L (low), Chloride 103.8 mmol/L (normal), Bicarbonate 11.4 mmol/L (low), Lactic acid 4.1 mmol/L (high), Creatine 203 μmol/L (high), Blood Urea Nitrogen 8.6 mmol/L (high).",
+  "differential_diagnosis": "Not mentioned",
+  "management_and_clinical_course": "Immediate admission and intravenous rehydration with Ringer’s lactate solution. 3L given in the first hour, leading to improved pulse rate (84 bpm) and blood pressure (100/70 mmHg). An additional 2L administered over the next 3 hours, patient became alert and responsive. Switched to oral rehydration and received a single dose of 300mg doxycycline. Discharged on the third day with normal stool consistency. Health authorities identified 44 additional cholera cases, managed with treatment, health education, and chlorination of water tanks.",
+  "final_diagnosis": "Cholera (Vibrio cholerae O1, Serotype Ogawa, biotype El Tor).",
+  "disease_name_short": "Cholera",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 74-year-old Japanese man with a history of cerebral infarction (without neurological sequelae), hypertension, and ulcerative colitis. He is taking antiplatelet, antihypertensive medicine, and subcutaneous injection of the TNF-alpha Blocker adalimumab once every 2 weeks.",
+  "chief_complaint": "Fever, joint pain, headache, nausea, and drowsiness over the past 5 days.",
+  "history_of_present_illness": "The patient presented with a 5-day history of fever, joint pain, headache, and nausea. He subsequently appeared unwell and drowsy, developing respiratory distress.",
+  "exposure_and_epidemiology": "He lives in a suburb of a city in Kyushu district, southwestern Japan. He is retired and occasionally engages in grape farming. He has opportunities to encounter wild animals such as boars and deer. He has no recent history of overseas travel.",
+  "vitals": "Body temperature: 37°C (98.6°F), Pulse rate: 101 bpm, Blood pressure: 120/70 mmHg, SpO2: 96% with 7l oxygen, Respiratory rate: 32 breaths per minute.",
+  "physical_exam": "Patient looks unwell and drowsy. Chest examination is normal. Glasgow Coma Scale on arrival is 13/15 (E3V4M6). Livedo reticularis bilaterally on his lower extremities, but no other rash. Left inguinal lymph node is enlarged.",
+  "labs_and_diagnostics": "WBC: 5.3 x 10^9/L (Reference: 3.3–8.6). Haemoglobin: 17.7 g/dL (Reference: 13.7–16.8, elevated). Platelets: 90 x 10^9/L (Reference: 158–348, low). AST: 413 U/L (Reference: 13–30, elevated). ALT: 95 U/L (Reference: 10–42, elevated). LDH: 1025 U/L (Reference: 124–222, elevated). CK: 7442 U/L (Reference: 59–248, elevated). CK-MB: 41 U/L (Reference: 0–15, elevated). CRP: 0.1 mg/dL (Reference: 0.00–0.14, normal). SFTS virus PCR from blood sample was positive.",
+  "differential_diagnosis": "Sepsis (Pneumonia, meningitis, infective endocarditis), tick- and mite-borne infectious diseases (Japanese spotted fever, scrub typhus, Severe Fever With Thrombocytopenia Syndrome - SFTS).",
+  "management_and_clinical_course": "Patient was intubated and admitted to ICU. Meropenem and vancomycin were initiated for possible bacterial sepsis. After SFTS virus PCR came back positive, antibiotics were discontinued. Despite adequate fluid administration and supportive therapies, patient's respiratory condition worsened, and he experienced protracted hypotension for a week. Noradrenaline was initiated, and hydrocortisone 200 mg/day was added for non-responsive septic shock, followed by gradual improvement. Platelet count decreased to 65 x 10^9/L on day 4 but recovered later. CK was highest on admission and normalized by day 7. He was extubated on day 12 and discharged on day 35 without sequelae.",
+  "final_diagnosis": "Severe Fever With Thrombocytopenia Syndrome (SFTS)",
+  "disease_name_short": "SFTS",
+  "images": []
+}

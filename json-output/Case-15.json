@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 3-year-old rural Lao boy. He is developing normally and is up to date with vaccinations. His parents are rice farmers.",
+  "chief_complaint": "10-day history of gradual, painful swelling of the right cheek with associated fever and poor appetite.",
+  "history_of_present_illness": "Symptoms started 10 days prior with gradual, painful swelling of the right cheek, fever, and poor appetite. Three days previously, his mother noticed a purulent discharge from the ear. He has no cough, vomiting, or diarrhoea. There is no history of previous ear infection or dental problems and no known history of trauma.",
+  "exposure_and_epidemiology": "From a rural Lao rice farming family, likely frequently exposed to soil and water containing B. pseudomallei in the paddy fields.",
+  "vitals": "Fever of 39.5°C (103.1°F).",
+  "physical_exam": "The child looks unwell. There is a localized, fluctuant, hot, tender swelling below and anterior to the right ear, 6 to 8cm in diameter, extending from the lower cheek to the submandibular region, consistent with a parotid mass. Ear examination reveals a purulent discharge in the auditory canal and suspicion of a small fistula from which pus is arising, with a right lower motor neuron facial nerve palsy. The oral cavity and throat are unremarkable. There is no lymphadenopathy and no hepatosplenomegaly. Heart sounds are normal and the chest is clear.",
+  "labs_and_diagnostics": "WBC 16.5 x 10^9/L (normal range 4–10 x10^9/L) with 90% neutrophils. Hb 9.4g/dL (normal range 13–15g/dL). All other blood tests are normal. Pus culture from the right ear and parotid abscess isolated B. pseudomallei. Blood culture was negative. Chest radiography and abdominal ultrasound were normal.",
+  "differential_diagnosis": "Bacterial acute, suppurative, unilateral parotitis (Staphylococcus aureus, Streptococcus pyogenes, Haemophilus influenzae, Gram-negative bacteria in neonates, Streptococcus pneumoniae in HIV-infected children). Burkholderia pseudomallei (melioidosis). Actinomycosis and cat-scratch disease (Bartonella henselae). Mumps and other viral agents (parainfluenza viruses, influenza A, cytomegalovirus, Epstein–Barr virus, enteroviruses). Granulomatous parotitis (Mycobacterium tuberculosis, Mycobacterium avium-intracellulare). Salivary stones and malignancies.",
+  "management_and_clinical_course": "The patient underwent incision and drainage of the parotid with removal of copious pus. Intravenous ceftazidime was administered for 10 days, followed by oral co-amoxiclav for 16 weeks. The patient showed a good clinical response. No complications occurred, and no underlying disease was identified.",
+  "final_diagnosis": "Right Suppurative Parotitis due to Burkholderia pseudomallei (Melioidosis)",
+  "disease_name_short": "Melioidosis",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 55-year-old Indigenous Australian woman, living in a crowded back room in a remote indigenous community.",
+  "chief_complaint": "Increasingly withdrawn, not getting out of the house, widespread exfoliating rash and signs of sepsis.",
+  "history_of_present_illness": "The patient had become increasingly withdrawn and less mobile, presenting with a widespread exfoliative rash and clear signs of systemic illness with sepsis.",
+  "exposure_and_epidemiology": "Resides in a remote indigenous community in tropical northern Australia where scabies is endemic. Lives in a crowded back room. Many household members, especially children, had multiple scabies lesions with secondary pyoderma, indicating active transmission within the household.",
+  "vitals": "Temperature 39.5°C (103.1°F), heart rate 110bpm, respiratory rate 28 breath cycles per minute, blood pressure 85mmHg systolic (to radial pulsation), oxygen saturation 92% on room air. Post-IV fluids and oxygen, BP rose to 95mmHg systolic and O2 saturation to 97%.",
+  "physical_exam": "Pale, clammy, and poorly responsive. Widespread exfoliative rash involving all limbs, especially armpits, buttocks, and thighs, with skin flakes on the mattress. Fissures observed over wrists and knees.",
+  "labs_and_diagnostics": "Initial tests included blood cultures, full blood count, CRP, biochemistry, and skin scrapings. Skin scrapings microscopy confirmed diagnosis, showing multiple scabies mites and eggs. Blood cultures grew community-acquired MRSA (S. aureus) resistant to flucloxacillin and clindamycin, sensitive to gentamicin, co-trimoxazole, and doxycycline. A transthoracic echocardiogram showed no features of endocarditis. Repeated blood cultures 48 hours post-admission were negative.",
+  "differential_diagnosis": "Psoriasis, extensive tinea corporis, skin malignancies (T-cell lymphomas mycosis fungoides and S ezary syndrome), nutritional deficiencies (pellagra), pemphigus, kava dermopathy, onchocerciasis, lepromatous leprosy, and secondary syphilis.",
+  "management_and_clinical_course": "Transported to community health centre. Initial management included oxygen, wide-bore cannula, additional blood cultures, 1 litre normal saline IV over 30 minutes, and IV ceftriaxone 2g with gentamicin 320mg. Patient was evacuated to regional hospital, managed in a single room with enhanced contact precautions. Scabies treatment: five-dose ivermectin (200 μg/kg/dose on days 0, 1, 7, 8, 14) combined with topical benzyl benzoate 25% (applied every second day for the first week, then twice weekly for the second week) and keratolytic cream. Sepsis treatment: 2 weeks of IV vancomycin for MRSA. Clinical improvement noted with negative blood cultures, afebrile status, off oxygen, and eating well. Family members treated with topical permethrin 5% and children with skin sores received intramuscular benzathine penicillin. Household decontamination included sun exposure for clothes/linen/furniture and insecticide treatment for rooms. Patient returned to community after 3 weeks with resolved skin hyperkeratosis/shedding, with regular follow-up.",
+  "final_diagnosis": "Crusted scabies with secondary community-acquired MRSA sepsis.",
+  "disease_name_short": "Crusted Scabies",
+  "images": [
+    "page1_img1.jpeg",
+    "page2_img1.jpeg"
+  ]
+}

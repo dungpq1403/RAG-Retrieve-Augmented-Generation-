@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 24-year-old woman from rural Uganda.",
+  "chief_complaint": "5-day history of a febrile illness and shock.",
+  "history_of_present_illness": "The illness started with a sore throat and aching all over, followed by abdominal pain and diarrhoea. She became increasingly unwell over the course of the past days, experiencing extreme weakness and needing help to stand.",
+  "exposure_and_epidemiology": "Her husband died of a severe febrile illness 6 days before she became ill. He had worked in a local gold mine. She had looked after him during his final illness at home.",
+  "vitals": "Blood pressure 85/65mmHg, pulse rate 105 bpm, temperature 38°C (100.4°F).",
+  "physical_exam": "Patient looks very unwell. Bilateral conjunctivitis. No rash, no lymphadenopathy. Heart sounds normal, chest clear. Abdominal examination normal.",
+  "labs_and_diagnostics": "Malaria slide showed a low level of parasitaemia with Plasmodium falciparum. A sample for Marburg and Ebola PCR was sent. A positive Marburg virus PCR result came back the day after her discharge.",
+  "differential_diagnosis": "Malaria, typhoid fever, bacterial sepsis (including invasive meningococcal disease), severe viral infection (adenovirus, influenza), measles, Zika virus, and viral haemorrhagic fever (specifically Marburg virus disease).",
+  "management_and_clinical_course": "Treated with extreme caution due to the possibility of a viral haemorrhagic fever. Isolated in a side room. Received IV artesunate followed by artemether/lumefantrine for malaria. Given empirical IV ceftriaxone for possible sepsis and resuscitated with IV fluids. Remained very unwell for several days, then started to improve. After recovery, she was kept in isolation for an additional 2 days before discharge. Family members, close friends, and medical staff who had contact were interviewed and advised to monitor their temperature for 21 days, with isolation for anyone developing fever or becoming unwell.",
+  "final_diagnosis": "Marburg virus disease (MVD) with concomitant Plasmodium falciparum parasitaemia.",
+  "disease_name_short": "Marburg virus disease",
+  "images": []
+}

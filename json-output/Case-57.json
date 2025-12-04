@@ -1,0 +1,16 @@
+{
+  "patient_information": "A 37-year-old woman from the Lower Shire Valley in southern Malawi. She lives and works on a large sugar plantation. She is married with three children, all are well. An HIV test done 3 months previously was negative. Her past medical history is unremarkable. She has not taken any regular painkillers and does not drink any alcohol.",
+  "chief_complaint": "Haematemesis (vomited bright red blood three times over the past 24 hours).",
+  "history_of_present_illness": "The patient presented with bright red blood vomited three times over the past 24 hours. There was no epigastric pain and no previous history of vomiting. She reported no history of fever or abnormal bleeding, and her stool had been normal in colour. She was fine before the onset of symptoms. She does not take regular painkillers and does not drink alcohol.",
+  "exposure_and_epidemiology": "Originates from the Lower Shire Valley in southern Malawi. Lives and works on a large sugar plantation. Malawi and other countries in the region are highly endemic for schistosomiasis, with virtually all water bodies infested with both Schistosoma mansoni and S. haematobium.",
+  "vitals": "Blood pressure: 90/60mmHg, Pulse: 110bpm, Respiratory rate: 28 breath cycles per minute, Afebrile.",
+  "physical_exam": "Slim but not wasted. Conjunctivae are slightly pale, no subconjunctival effusions, not jaundiced. Abdomen shows no distension or tenderness. Spleen palpable at 10cm below the left costal margin. Liver slightly enlarged, but no stigmata of chronic liver disease. No shifting dullness or peripheral oedema. Lymph nodes are not enlarged. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "Laboratory results on admission: WBC 2.8 x 10^9/L (Ref: 4–10), Haemoglobin 8.3 g/dL (Ref: 12–14), MCV 88 fL (Ref: 80–99), Platelets 130 x 10^9/L (Ref: 150–400), indicating pancytopenia with normocytic anaemia. Gastroduodenoscopy confirmed the presence of oesophageal varices, with no other source of bleeding. Hepatitis B and C serologies were negative. One stool sample for S. mansoni ova was negative. Ultrasound of the liver described a pattern typical of pipestem fibrosis.",
+  "differential_diagnosis": "Portal hypertension with gastro-oesophageal varices (most likely due to schistosomiasis), peptic ulcer disease, erosive gastritis, bleeding tumour, oesophageal cancer, visceral leishmaniasis.",
+  "management_and_clinical_course": "The patient received IV fluids and was transferred to a central hospital for endoscopy. Oesophageal varices were confirmed and banding was performed. Hepatitis B and C serologies were negative. A stool sample for S. mansoni ova was negative. Liver ultrasound showed a pattern typical of pipestem fibrosis. The patient received a single dose of praziquantel 40mg/kg and was discharged home.",
+  "final_diagnosis": "Hepatosplenic schistosomiasis with gastro-oesophageal varices causing haematemesis.",
+  "disease_name_short": "Hepatosplenic Schistosomiasis",
+  "images": [
+    "page2_img1.jpeg"
+  ]
+}

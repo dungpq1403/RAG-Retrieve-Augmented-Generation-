@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 27-year-old male Swiss tourist.",
+  "chief_complaint": "Persisting, incapacitating polyarthralgias.",
+  "history_of_present_illness": "The patient spent 3.5 weeks travelling in the rainforests of the Amazon Basin in northern Peru. During the second week, he developed an acute febrile illness with chills, malaise, frontal headache, generalized myalgia, and a transient, non-pruritic maculopapular rash. The rash started on the forearms about 1 week after fever onset, spread to the trunk, neck, and face, then faded after 3 days. He also experienced slowly progressive debilitating polyarthralgias affecting peripheral joints, accompanied by transient joint swelling, and painful, self-limiting cervical and inguinal lymphadenopathy (lasting about 1 week). He presented at a local hospital where he received a clinical diagnosis of dengue fever and symptomatic treatment with paracetamol. While fever and other symptoms subsided within 1 week, the polyarthralgias did not improve, showing a symmetrical pattern mainly affecting small joints of the hands and feet, wrists, ankles, and knees. Upon returning home to Switzerland, he consulted his general practitioner for persisting, incapacitating polyarthralgias, reporting stiffness mainly in the morning and after immobility. Joint pains did not improve for two more months, leading to referrals to a rheumatologist and subsequently a tropical medicine clinic.",
+  "exposure_and_epidemiology": "Spent 3.5 weeks travelling in the rainforests of the Amazon Basin in northern Peru.",
+  "vitals": "Not mentioned.",
+  "physical_exam": "Physical examination of the affected joints did not reveal any clinical signs of inflammation (no swelling, no redness, no effusion). The overall physical examination was completely unremarkable.",
+  "labs_and_diagnostics": "Serological testing for dengue virus, chikungunya virus, parvovirus B19, Epstein-Barr virus, Borrelia burgdorferi, Chlamydia trachomatis, Salmonella Typhi, and S. Paratyphi were performed, none revealing a cause for the symptoms. Full blood count was normal. C-reactive protein was mildly elevated at 9 mg/L (<5). Liver function tests were normal.",
+  "differential_diagnosis": "Reactive arthritis (Reiter’s syndrome) and viral arthritis (including parvovirus B19, hepatitis B and C, HIV, rubella, and alphaviruses like Chikungunya, Sindbis, Ross River, Barmah Forest, O'Nyong Nyong, Mayaro).",
+  "management_and_clinical_course": "Received symptomatic treatment with paracetamol at a local hospital in Peru. Fever and other symptoms subsided within 1 week, but polyarthralgias persisted and did not improve for two more months.",
+  "final_diagnosis": "Mayaro virus (MAYV) infection was strongly suspected.",
+  "disease_name_short": "Mayaro virus infection",
+  "images": []
+}

@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 20-year-old woman from the Democratic Republic of the Congo. She resides in a village, where people live from agriculture, has no relevant past medical history and is the mother of three children.",
+  "chief_complaint": "Fever and a disseminated vesiculopustular skin rash.",
+  "history_of_present_illness": "The patient experienced fever, malaise, headache, dry cough, and swelling of the neck, followed by a disseminated skin rash that appeared 2 days after the initial symptoms. The skin lesions first appeared on the face and then spread centrifugally over her body, including the palms and soles of her feet as well as the oral mucosa. The lesions have developed from initial macules to papules, then to vesicles and finally to pustules. The oral mucosal lesions are painful and make drinking and eating difficult.",
+  "exposure_and_epidemiology": "The patient resides in a village in a rural area of the Democratic Republic of the Congo. She was born after the worldwide smallpox vaccination programmes were stopped in the early 1980s. Monkeypox is endemic in rural regions of Central Africa, with human cases and small outbreaks confined to remote villages, believed to result from close contact between humans and wild animals. Exposure is often difficult to pinpoint in areas where contact with animals through household rodent infestations and hunting or preparation of bushmeat from a variety of species is common.",
+  "vitals": "Temperature 38°C (100.4°F), pulse 110 beats per minute, blood pressure 105/82 mmHg.",
+  "physical_exam": "Disseminated uniform umbilicated vesiculopustular skin lesions, ranging from 0.5 to 1 cm in diameter, all over the body with a predilection for the face, the hands and the feet. Generalized lymphadenopathy with prominent swelling of the cervical lymph nodes. The examination of the lungs, heart, abdomen and the CNS is unremarkable.",
+  "labs_and_diagnostics": "WBC: 4.4 x 10^9/L (neutrophils: 73%, lymphocytes: 21%). Haemoglobin: 12.3 g/dL. ESR: 75 mm/h (reference <20 mm/h).",
+  "differential_diagnosis": "Viral infection, poxvirus (particularly monkeypox), varicella (chickenpox), cowpox, smallpox.",
+  "management_and_clinical_course": "Clinical management was exclusively supportive. The patient made an uneventful recovery, however, with scarring from the skin lesions.",
+  "final_diagnosis": "Human Monkeypox.",
+  "disease_name_short": "Monkeypox",
+  "images": [
+    "page1_img1.jpeg",
+    "page3_img1.jpeg"
+  ]
+}

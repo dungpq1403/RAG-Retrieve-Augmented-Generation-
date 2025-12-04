@@ -1,0 +1,14 @@
+{
+  "patient_information": "A 45-year-old Sri Lankan man",
+  "chief_complaint": "Fever, chills, headache, body aches and severe right hypochondrial pain for the past week. He has also developed a dry cough during the past few days. He has vomited twice during his illness and has lost his appetite.",
+  "history_of_present_illness": "His abdominal pain is constant and dull. It radiates to the right shoulder and is made worse when coughing and resting on the right side. The patient had been well before the current illness. He admits to consuming locally brewed alcohol (‘toddy’, made of coconut flowers) daily for the past 10 to 15 years.",
+  "exposure_and_epidemiology": "From Sri Lanka. Consumes locally brewed alcohol (‘toddy’, made of coconut flowers) daily for the past 10 to 15 years. The alcoholic drink is locally known to be linked with amoebiasis.",
+  "vitals": "Temperature is 38.3°C (100.8°F), blood pressure 100/80mmHg, pulse 102bpm, respiratory rate 24 breath cycles per minute.",
+  "physical_exam": "The patient looks generally ill, mildly dehydrated and is in pain. There is no jaundice, no pallor and no lymphadenopathy. The abdominal examination reveals a tender hepatomegaly; however, the tenderness is most prominent over the 6th to 9th intercostal spaces in the right mid-axillary line. The spleen is not enlarged. On auscultation, there are few inspiratory crackles over the right lung base. The cardiovascular system and the nervous system are clinically normal.",
+  "labs_and_diagnostics": "Laboratory Results: WBC 14.7 (elevated, ref: 4–10), Haemoglobin 12.3 (ref: 12–16), Platelets 224 (ref: 150–350), AST 54 (elevated, ref: 13–33), ALT 38 (elevated, ref: 3–25), ALP 446 (elevated, ref: 40–130), Serum bilirubin total 10.3 (ref: 25.7–30.8), Serum bilirubin direct 1.5 (ref: 1.7–5.1), Blood urea nitrogen 7 (elevated, ref: 2.5–6.4), Serum creatinine 124 (elevated, ref: 71–106), C-reactive protein 48 (elevated, ref: <6). A chest radiograph showed elevated right hemidiaphragm and patchy shadows in the right lower zone. An ultrasound scan of his abdomen revealed a solitary hypoechoic lesion with an irregular wall measuring 7x6cm in the right liver lobe. There was a small pleural effusion on the right. The lesion was aspirated under ultrasound guidance, yielding brownish pus highly suspicious of an amoebic liver abscess.",
+  "differential_diagnosis": "Liver abscess (amoebic or pyogenic, considering hypermucoviscous serotypes of Klebsiella pneumoniae), Melioidosis. Amoebic liver abscess is considered more likely given the epidemiological setting, patient's age, absence of comorbidities, and alcohol consumption link.",
+  "management_and_clinical_course": "The lesion was aspirated under ultrasound guidance. The patient was treated with metronidazole for ten days and made a rapid and uneventful recovery.",
+  "final_diagnosis": "Amoebic Liver Abscess",
+  "disease_name_short": "Amoebic Liver Abscess",
+  "images": []
+}

@@ -1,0 +1,16 @@
+{
+  "patient_information": "14-year-old girl from the Solomon Islands.",
+  "chief_complaint": "Painless, non-healing large ulcer on her left leg.",
+  "history_of_present_illness": "A 14-year-old girl from the Solomon Islands reported a painless, non-healing large ulcer of her left leg that began 1 month earlier.",
+  "exposure_and_epidemiology": "Patient is from the Solomon Islands, an area highly endemic for yaws. Yaws is associated with overcrowding and poor hygiene.",
+  "vitals": "Not mentioned",
+  "physical_exam": "Large crusted lesion (approximately 3 cm diameter) on the left lower leg. A smaller, similar satellite lesion was noted lower down the leg. No regional lymphadenopathy or evidence of any other skin or bone lesions.",
+  "labs_and_diagnostics": "Rapid plasma reagin (RPR) test positive at a titre of 1:64 (Normal – Negative).",
+  "differential_diagnosis": "Yaws, Haemophilus ducreyi infection, pyoderma, tropical ulcer, cutaneous diphtheria, Aeromonas hydrophila infection.",
+  "management_and_clinical_course": "Initially treated with a single intramuscular (IM) dose of benzathine benzylpenicillin. The skin lesion resolved over the next 10 days. Twelve months later, the patient presented with a similar ulcer on the right leg. A repeat RPR test was positive at a titre of 1:8. This was considered a cure for the initial infection due to a greater than four-fold fall in the RPR titre, and the new ulcer was interpreted to be of a different etiology.",
+  "final_diagnosis": "Yaws (caused by Treponema pallidum subspecies pertenue).",
+  "disease_name_short": "Yaws",
+  "images": [
+    "page1_img1.jpeg"
+  ]
+}

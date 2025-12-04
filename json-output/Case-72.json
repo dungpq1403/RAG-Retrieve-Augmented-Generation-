@@ -1,0 +1,17 @@
+{
+  "patient_information": "A 4-year-old, HIV-negative boy from rural Mozambique.",
+  "chief_complaint": "Severe oedema, puffy face, pitting oedema on lower legs, dry hyperpigmented skin peeling like 'flaky paint', and ulcerative skin lesions.",
+  "history_of_present_illness": "Admitted 5 days earlier with suspected nephrotic syndrome, treated with furosemide and prednisolone, but oedema did not subside. Three weeks prior, treated for pneumonia.",
+  "exposure_and_epidemiology": "From rural Mozambique, where kwashiorkor commonly occurs due to monotonous diet with low protein-to-energy ratio and infections often precede onset.",
+  "vitals": "Not mentioned",
+  "physical_exam": "Miserable, refusing to eat, apathetic, puffy face, pitting oedema on lower legs. Hair is brittle, sparse and fair. Skin is dry, hyperpigmented, peeling off like ‘flaky paint’ with ulcerative lesions, most prominent in groins.",
+  "labs_and_diagnostics": "Albumin 2.2g/dL (reference range 3.0–5.2g/dL), haemoglobin 7g/dL (12–14g/dL).",
+  "differential_diagnosis": "Nephrotic syndrome (initially suspected, later differentiated).",
+  "management_and_clinical_course": "Initially treated with furosemide and prednisolone, but oedema persisted. Admitted to high dependency nutrition ward for WHO-guideline-based severe acute malnutrition treatment including meticulously calculated feeds, close monitoring, prophylactic antibiotics, temperature and haemoglobin monitoring, and careful fluid replacement. Skin lesions became superinfected, treated successfully with Gentian violet solution. Initially required nasogastric tube feeding due to intolerance of 3-hourly feeds. On day 5, could eat independently and oedema started to settle. Discharged to community feeding program on day 15.",
+  "final_diagnosis": "Kwashiorkor (severe acute malnutrition).",
+  "disease_name_short": "Kwashiorkor",
+  "images": [
+    "page1_img1.jpeg",
+    "page1_img2.jpeg"
+  ]
+}
